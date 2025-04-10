@@ -1,0 +1,50 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "match_sync_lite"
+version = "0.1"
+description = "Sistema de conciliación de datos financieros"
+readme = "README.rst"
+authors = [
+  {name = "Ariel Lujan Giamportone", email = "giamportone1@gmail.com"}
+]
+maintainers = [
+  {name = "Ariel Lujan Giamportone", email = "giamportone1@gmail.com"}
+]
+license = {text = "MIT"}
+dependencies = [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "faker"
+]
+
+[tool.setuptools]
+packages = ["match_sync_lite"]
+package-dir = {"" = "src"}
+
+[tool.setuptools.package-data]
+"*" = ["*.*"]
+
+
+
+
+# Mypy
+# ----
+
+[tool.mypy]
+files = "."
+
+# Use strict defaults
+strict = true
+warn_unreachable = true
+warn_no_return = true
+
+[[tool.mypy.overrides]]
+# Don't require test functions to include types
+module = "tests.*"
+allow_untyped_defs = true
+disable_error_code = "attr-defined"
+

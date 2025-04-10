@@ -1,0 +1,501 @@
+metodo_pago,cliente,segregable,id,referencia,fecha,monto,sucursal,subid,match_valor,match_score,conciliado,clave_compuesta,match_id,match_subid
+Transferencia,Benito Esmeralda Rivera Ureña,1,VEN-9125-hAs,PAGO-iWU-1472,2025-03-31,2327.13,Sur,1,PAGO-iWU-1472,100.0,True,PAGO-iWU-1472,PAGO,iWU
+Tarjeta,Bernardo Hugo Puente,1,VEN-2063-SQh,PAGO-adD-9425,2025-03-26,1971.16,Centro,1,,0.0,False,PAGO-adD-9425,,
+Efectivo,Pamela Jaime Alva,1,VEN-3441-hCu,PAGO-XsP-9840,2025-03-15,2161.06,Norte,1,PAGO-XsP-9840,100.0,True,PAGO-XsP-9840,PAGO,XsP
+Transferencia,Mario Irizarry,1,VEN-3400-GDP,PAGO-CXr-5762,2025-03-31,1269.43,Centro,1,,0.0,False,PAGO-CXr-5762,,
+Transferencia,Ing. Mateo Salcido,1,VEN-8883-Npz,PAGO-kck-1555,2025-04-03,4994.08,Norte,1,PAGO-kck-1555,100.0,True,PAGO-kck-1555,PAGO,kck
+Transferencia,Antonio Mario Hernández Bonilla,1,VEN-1997-eoB,PAGO-sCr-5743,2025-03-25,1562.38,Norte,1,PAGO-sCr-5743,100.0,True,PAGO-sCr-5743,PAGO,sCr
+Tarjeta,Micaela Vaca Chavarría,1,VEN-5194-TcE,PAGO-Uyw-9153,2025-04-05,1973.95,Centro,1,PAGO-Uyw-9153,100.0,True,PAGO-Uyw-9153,PAGO,Uyw
+Efectivo,Marco Antonio Ocasio Téllez,1,VEN-2418-ecU,PAGO-QVH-5742,2025-03-25,1886.21,Centro,1,PAGO-QVH-5742,100.0,True,PAGO-QVH-5742,PAGO,QVH
+Transferencia,Gregorio Ávila Santacruz,1,VEN-5564-Aei,PAGO-Cgi-2516,2025-03-12,1609.1,Sur,1,PAGO-Cgi-2516,100.0,True,PAGO-Cgi-2516,PAGO,Cgi
+Transferencia,Gabino Maya,1,VEN-2927-CZz,PAGO-qtE-6325,2025-03-18,1096.78,Centro,1,PAGO-qtE-6325,100.0,True,PAGO-qtE-6325,PAGO,qtE
+Efectivo,Lic. Indira Villagómez,1,VEN-1998-zGS,PAGO-Zfd-9775,2025-03-21,850.1,Norte,1,PAGO-Zfd-9775,100.0,True,PAGO-Zfd-9775,PAGO,Zfd
+Tarjeta,Sandra Pineda Montalvo,1,VEN-4326-FEm,PAGO-jOp-0839,2025-04-04,3105.81,Sur,1,PAGO-jOp-0839,100.0,True,PAGO-jOp-0839,PAGO,jOp
+Efectivo,Gregorio Bruno de la Garza Tapia,1,VEN-6268-PVE,PAGO-Xlk-9131,2025-03-28,1728.98,Sur,1,,0.0,False,PAGO-Xlk-9131,,
+Efectivo,Elvira María Luisa Rivero,1,VEN-6285-HQA,PAGO-Yvw-1833,2025-03-19,4727.55,Norte,1,PAGO-Yvw-1833,100.0,True,PAGO-Yvw-1833,PAGO,Yvw
+Transferencia,Benjamín Villalobos,1,VEN-4492-Mdm,PAGO-aoe-4180,2025-03-28,3135.91,Centro,1,PAGO-aoe-4180,100.0,True,PAGO-aoe-4180,PAGO,aoe
+Tarjeta,Alejandra Tomás Jaime,1,VEN-9196-VUh,PAGO-ggi-8418,2025-03-25,1622.34,Norte,1,,0.0,False,PAGO-ggi-8418,,
+Tarjeta,Jacinto Nicolás Caraballo Padilla,1,VEN-0056-kfN,PAGO-uZY-3039,2025-03-13,2980.25,Sur,1,PAGO-uZY-3039,100.0,True,PAGO-uZY-3039,PAGO,uZY
+Tarjeta,Dr. Emilia Botello,1,VEN-0748-KAh,PAGO-Lxg-3572,2025-03-16,3063.56,Sur,1,,0.0,False,PAGO-Lxg-3572,,
+Transferencia,María Teresa Quintanilla,1,VEN-7932-gVT,PAGO-QGW-8267,2025-04-07,2652.97,Norte,1,PAGO-QGW-8267,100.0,True,PAGO-QGW-8267,PAGO,QGW
+Efectivo,Lucía Ruiz Serrano,1,VEN-2537-acD,PAGO-Nyl-8032,2025-03-11,2006.13,Centro,1,PAGO-Nyl-8032,100.0,True,PAGO-Nyl-8032,PAGO,Nyl
+Efectivo,Gabino Yeni Ávila Hinojosa,1,VEN-2350-EhH,PAGO-Fhn-4654,2025-03-28,269.87,Centro,1,PAGO-Fhn-4654,100.0,True,PAGO-Fhn-4654,PAGO,Fhn
+Tarjeta,Lic. Gustavo Luna,1,VEN-1451-qOb,PAGO-zlq-1051,2025-03-22,2039.26,Centro,1,PAGO-zlq-1051,100.0,True,PAGO-zlq-1051,PAGO,zlq
+Efectivo,Alonso Tania Acevedo,1,VEN-5669-pLg,PAGO-gbn-8263,2025-03-19,1002.15,Norte,1,,0.0,False,PAGO-gbn-8263,,
+Efectivo,Lic. Indira Casanova,1,VEN-3351-AXP,PAGO-QMm-0187,2025-03-30,4778.15,Sur,1,PAGO-QMm-0187,100.0,True,PAGO-QMm-0187,PAGO,QMm
+Transferencia,Felipe Urías Naranjo,1,VEN-2479-bBg,PAGO-FfL-3907,2025-03-13,3149.52,Sur,1,,0.0,False,PAGO-FfL-3907,,
+Efectivo,Estela Alonzo Corrales,1,VEN-6665-mmT,PAGO-DXp-2145,2025-03-29,2797.64,Sur,1,,0.0,False,PAGO-DXp-2145,,
+Tarjeta,Lic. Rubén del Río,1,VEN-5772-RDK,PAGO-jFe-3045,2025-03-17,3179.28,Norte,1,,0.0,False,PAGO-jFe-3045,,
+Efectivo,Lorenzo Romero Ojeda,1,VEN-0024-rSC,PAGO-sDi-3077,2025-03-13,1905.13,Sur,1,PAGO-sDi-3077,100.0,True,PAGO-sDi-3077,PAGO,sDi
+Transferencia,María Teresa Elias Leal Salas,1,VEN-2645-HNK,PAGO-JeO-6266,2025-03-19,3139.67,Centro,1,,0.0,False,PAGO-JeO-6266,,
+Efectivo,Óscar Yeni Téllez Fonseca,1,VEN-5631-jUu,PAGO-eAT-7677,2025-03-13,2664.29,Centro,1,PAGO-eAT-7677,100.0,True,PAGO-eAT-7677,PAGO,eAT
+Tarjeta,Dulce María Gilberto Gamez,1,VEN-7417-SIQ,PAGO-sKl-8453,2025-03-26,4033.34,Centro,1,PAGO-sKl-8453,100.0,True,PAGO-sKl-8453,PAGO,sKl
+Efectivo,Benito Tijerina,1,VEN-8526-dhi,PAGO-hBl-8905,2025-03-26,3731.12,Sur,1,PAGO-hBl-8905,100.0,True,PAGO-hBl-8905,PAGO,hBl
+Efectivo,Vanesa Claudio Carreón Candelaria,1,VEN-4368-qwO,PAGO-KhL-8791,2025-04-04,3333.39,Centro,1,PAGO-KhL-8791,100.0,True,PAGO-KhL-8791,PAGO,KhL
+Tarjeta,Georgina Violeta Sarabia,1,VEN-3589-srx,PAGO-VnR-4676,2025-04-06,959.29,Centro,1,PAGO-VnR-4676,100.0,True,PAGO-VnR-4676,PAGO,VnR
+Tarjeta,Violeta Juan Carlos Tórrez,1,VEN-0088-NfZ,PAGO-HeA-1912,2025-03-24,2905.0,Norte,1,,0.0,False,PAGO-HeA-1912,,
+Efectivo,Adán Méndez,1,VEN-2444-jAi,PAGO-zDC-2543,2025-03-12,4425.75,Centro,1,PAGO-zDC-2543,100.0,True,PAGO-zDC-2543,PAGO,zDC
+Transferencia,Jonás Jos Velasco Coronado,1,VEN-1655-IhX,PAGO-uax-1167,2025-03-30,1447.55,Norte,1,PAGO-uax-1167,100.0,True,PAGO-uax-1167,PAGO,uax
+Transferencia,Isabela Catalina Ocasio,1,VEN-2185-cEs,PAGO-IEf-1644,2025-04-06,2377.7,Centro,1,PAGO-IEf-1644,100.0,True,PAGO-IEf-1644,PAGO,IEf
+Tarjeta,Anabel León Ibarra,1,VEN-3811-EAF,PAGO-mJl-7970,2025-03-25,1320.45,Sur,1,,0.0,False,PAGO-mJl-7970,,
+Tarjeta,Amanda Delgadillo Estévez,1,VEN-9306-UtI,PAGO-lbl-7447,2025-03-15,4635.53,Sur,1,PAGO-lbl-7447,100.0,True,PAGO-lbl-7447,PAGO,lbl
+Transferencia,Lic. Porfirio Ayala,1,VEN-5423-Jdj,PAGO-RQs-6857,2025-03-25,2741.78,Centro,1,PAGO-RQs-6857,100.0,True,PAGO-RQs-6857,PAGO,RQs
+Efectivo,Ricardo Villa,1,VEN-3602-ZfM,PAGO-ehs-3255,2025-03-25,4710.83,Norte,1,,0.0,False,PAGO-ehs-3255,,
+Efectivo,Cornelio Elias Mares Medina,1,VEN-8145-zlr,PAGO-hOT-0366,2025-04-02,3597.39,Centro,1,PAGO-hOT-0366,100.0,True,PAGO-hOT-0366,PAGO,hOT
+Transferencia,Raúl Olga Pabón Lucio,1,VEN-8758-iYJ,PAGO-qmb-3527,2025-04-07,292.68,Norte,1,PAGO-qmb-3527,100.0,True,PAGO-qmb-3527,PAGO,qmb
+Tarjeta,Raúl Elvira Solorzano Arevalo,1,VEN-5557-oDv,PAGO-cTE-5802,2025-03-25,3247.68,Centro,1,PAGO-cTE-5802,100.0,True,PAGO-cTE-5802,PAGO,cTE
+Efectivo,Leonardo Rangel Arriaga,1,VEN-8947-KKD,PAGO-kdj-7641,2025-03-28,2114.07,Norte,1,,0.0,False,PAGO-kdj-7641,,
+Transferencia,Antonio Holguín,1,VEN-1361-fRD,PAGO-BNq-5056,2025-03-20,2209.08,Centro,1,PAGO-BNq-5056,100.0,True,PAGO-BNq-5056,PAGO,BNq
+Transferencia,Dr. Fidel Hurtado,1,VEN-7908-Zhm,PAGO-ROi-6586,2025-03-09,1739.38,Sur,1,PAGO-ROi-6586,100.0,True,PAGO-ROi-6586,PAGO,ROi
+Efectivo,Julio Amaya,1,VEN-0090-lsN,PAGO-eOX-1081,2025-03-18,715.25,Sur,1,PAGO-eOX-1081,100.0,True,PAGO-eOX-1081,PAGO,eOX
+Efectivo,Leonor José Emilio Ruiz Almanza,1,VEN-5169-Bar,PAGO-due-5210,2025-03-19,445.07,Sur,1,PAGO-due-5210,100.0,True,PAGO-due-5210,PAGO,due
+Tarjeta,Julia Flavio Perea Carrera,1,VEN-9903-hkA,PAGO-rFv-1088,2025-03-31,4610.29,Centro,1,PAGO-rFv-1088,100.0,True,PAGO-rFv-1088,PAGO,rFv
+Efectivo,María Luisa Alarcón Rosas,1,VEN-2551-eVP,PAGO-Hsa-9605,2025-03-27,3788.73,Norte,1,PAGO-Hsa-9605,100.0,True,PAGO-Hsa-9605,PAGO,Hsa
+Tarjeta,Ing. Yuridia Delgadillo,1,VEN-2279-vHJ,PAGO-olI-9058,2025-04-04,1588.26,Norte,1,,0.0,False,PAGO-olI-9058,,
+Transferencia,María Eugenia Salma Marín Ferrer,1,VEN-3756-iBW,PAGO-nxa-8756,2025-03-10,1469.92,Centro,1,PAGO-nxa-8756,100.0,True,PAGO-nxa-8756,PAGO,nxa
+Tarjeta,Dr. Dulce Ulibarri,1,VEN-8264-vDY,PAGO-YBX-9614,2025-04-03,4900.87,Sur,1,,0.0,False,PAGO-YBX-9614,,
+Transferencia,Leticia Eduardo Holguín,1,VEN-3241-Fmq,PAGO-ywT-6524,2025-03-16,2130.49,Sur,1,,0.0,False,PAGO-ywT-6524,,
+Transferencia,Lucas Henríquez,1,VEN-0469-GRQ,PAGO-uWv-8305,2025-03-14,2202.99,Centro,1,PAGO-uWv-8305,100.0,True,PAGO-uWv-8305,PAGO,uWv
+Efectivo,Indira Rojo,1,VEN-7622-jAA,PAGO-mCk-4977,2025-04-05,465.99,Sur,1,PAGO-mCk-4977,100.0,True,PAGO-mCk-4977,PAGO,mCk
+Tarjeta,Perla Miguel Ángel Cantú Gastélum,1,VEN-3990-bxo,PAGO-bEf-7089,2025-03-18,2553.65,Centro,1,,0.0,False,PAGO-bEf-7089,,
+Tarjeta,Jorge Luis Raquel Tovar,1,VEN-4952-JYK,PAGO-uOc-4635,2025-03-31,2637.02,Norte,1,,0.0,False,PAGO-uOc-4635,,
+Efectivo,Hilda Socorro Hidalgo Nieves,1,VEN-7211-tih,PAGO-OMd-4658,2025-04-01,4209.98,Centro,1,PAGO-OMd-4658,100.0,True,PAGO-OMd-4658,PAGO,OMd
+Transferencia,Lic. Eloisa Hinojosa,1,VEN-1364-zSe,PAGO-lTH-9711,2025-03-21,2544.41,Centro,1,PAGO-lTH-9711,100.0,True,PAGO-lTH-9711,PAGO,lTH
+Efectivo,Noemí María Cristina Burgos,1,VEN-1903-SEH,PAGO-pTx-5308,2025-03-25,1279.14,Norte,1,PAGO-pTx-5308,100.0,True,PAGO-pTx-5308,PAGO,pTx
+Transferencia,Rebeca Hidalgo,1,VEN-3093-iIs,PAGO-ihq-6365,2025-03-28,123.19,Sur,1,PAGO-ihq-6365,100.0,True,PAGO-ihq-6365,PAGO,ihq
+Efectivo,Joaquín Hugo Ramírez Esquibel,1,VEN-6251-RBp,PAGO-pDI-4577,2025-03-09,4143.38,Sur,1,PAGO-pDI-4577,100.0,True,PAGO-pDI-4577,PAGO,pDI
+Efectivo,Wilfrido Escobar,1,VEN-8251-Yqd,PAGO-feO-5489,2025-03-11,4967.77,Centro,1,PAGO-feO-5489,100.0,True,PAGO-feO-5489,PAGO,feO
+Tarjeta,Salma Georgina Regalado,1,VEN-8073-fNm,PAGO-ZWV-5159,2025-04-01,4522.74,Norte,1,PAGO-ZWV-5159,100.0,True,PAGO-ZWV-5159,PAGO,ZWV
+Efectivo,Yeni Quesada Espino,1,VEN-6467-PfV,PAGO-CIu-4721,2025-03-12,4625.38,Sur,1,PAGO-CIu-4721,100.0,True,PAGO-CIu-4721,PAGO,CIu
+Transferencia,Aurora Homero Sanabria Marroquín,1,VEN-6876-DND,PAGO-iYL-6817,2025-03-24,1751.99,Norte,1,PAGO-iYL-6817,100.0,True,PAGO-iYL-6817,PAGO,iYL
+Tarjeta,Lic. Elvia Cepeda,1,VEN-0016-njO,PAGO-EAy-8912,2025-03-25,3587.96,Centro,1,PAGO-EAy-8912,100.0,True,PAGO-EAy-8912,PAGO,EAy
+Efectivo,Leticia Samuel Portillo,1,VEN-1197-iUD,PAGO-HEl-2716,2025-03-26,415.87,Centro,1,PAGO-HEl-2716,100.0,True,PAGO-HEl-2716,PAGO,HEl
+Efectivo,Noemí Aragón Guajardo,1,VEN-4867-ONm,PAGO-FsD-6907,2025-04-05,2334.54,Sur,1,PAGO-FsD-6907,100.0,True,PAGO-FsD-6907,PAGO,FsD
+Transferencia,Francisca Ballesteros Valentín,1,VEN-1484-Ibn,PAGO-gGb-1672,2025-03-17,1661.53,Norte,1,PAGO-gGb-1672,100.0,True,PAGO-gGb-1672,PAGO,gGb
+Tarjeta,Irma Barajas Montes,1,VEN-3922-PsT,PAGO-bKY-5049,2025-03-21,1246.26,Norte,1,PAGO-bKY-5049,100.0,True,PAGO-bKY-5049,PAGO,bKY
+Tarjeta,Irene Domínguez,1,VEN-7626-WGc,PAGO-dov-7710,2025-03-09,3813.95,Centro,1,PAGO-dov-7710,100.0,True,PAGO-dov-7710,PAGO,dov
+Transferencia,Manuel Yáñez Cantú,1,VEN-7393-wPz,PAGO-yBI-5490,2025-03-16,2103.68,Centro,1,PAGO-yBI-5490,100.0,True,PAGO-yBI-5490,PAGO,yBI
+Efectivo,Mitzy Estrada Carrión,1,VEN-0928-iJt,PAGO-Lgb-0406,2025-03-15,2837.08,Sur,1,PAGO-Lgb-0406,100.0,True,PAGO-Lgb-0406,PAGO,Lgb
+Tarjeta,Ivonne Archuleta Alva,1,VEN-2009-dEv,PAGO-Tkv-8908,2025-03-23,416.49,Centro,1,PAGO-Tkv-8908,100.0,True,PAGO-Tkv-8908,PAGO,Tkv
+Tarjeta,Judith Benítez Alvarado,1,VEN-1079-Iee,PAGO-wwG-3007,2025-03-12,3534.93,Centro,1,,0.0,False,PAGO-wwG-3007,,
+Efectivo,Dalia Armenta,1,VEN-7709-NAB,PAGO-tQZ-4912,2025-03-23,4818.19,Norte,1,,0.0,False,PAGO-tQZ-4912,,
+Transferencia,José Bermúdez,1,VEN-4886-HsB,PAGO-ejn-5901,2025-03-14,1631.57,Centro,1,,0.0,False,PAGO-ejn-5901,,
+Transferencia,Germán Rubén Feliciano,1,VEN-9841-gGC,PAGO-YwY-7755,2025-03-22,469.69,Norte,1,PAGO-YwY-7755,100.0,True,PAGO-YwY-7755,PAGO,YwY
+Transferencia,Yeni Mota Caldera,1,VEN-1242-mQq,PAGO-EkH-3365,2025-03-20,4563.81,Norte,1,,0.0,False,PAGO-EkH-3365,,
+Efectivo,Evelio Benavídez Reynoso,1,VEN-3402-gez,PAGO-UuE-7005,2025-04-07,4096.98,Norte,1,PAGO-UuE-7005,100.0,True,PAGO-UuE-7005,PAGO,UuE
+Tarjeta,Lic. Francisco Candelaria,1,VEN-2592-CZK,PAGO-eaU-8059,2025-04-07,4709.11,Centro,1,PAGO-eaU-8059,100.0,True,PAGO-eaU-8059,PAGO,eaU
+Tarjeta,Elvia Segura,1,VEN-3654-BoW,PAGO-lnr-6087,2025-03-13,4466.89,Sur,1,PAGO-lnr-6087,100.0,True,PAGO-lnr-6087,PAGO,lnr
+Efectivo,Sr(a). Carmen Nieto,1,VEN-1080-OMG,PAGO-uVT-5642,2025-03-16,1849.11,Sur,1,PAGO-uVT-5642,100.0,True,PAGO-uVT-5642,PAGO,uVT
+Transferencia,Teresa Jacobo Soliz Velasco,1,VEN-2342-knl,PAGO-AUq-5632,2025-03-17,4050.86,Centro,1,PAGO-AUq-5632,100.0,True,PAGO-AUq-5632,PAGO,AUq
+Efectivo,Irma Fabiola Valadez Espinoza,1,VEN-5303-gTa,PAGO-dzh-9315,2025-03-14,1481.21,Norte,1,,0.0,False,PAGO-dzh-9315,,
+Efectivo,Pamela Ana Luisa Arreola Amaya,1,VEN-1425-UCH,PAGO-tzQ-4623,2025-04-03,952.98,Norte,1,PAGO-tzQ-4623,100.0,True,PAGO-tzQ-4623,PAGO,tzQ
+Tarjeta,María Eugenia Medrano,1,VEN-6856-Qga,PAGO-AHC-6202,2025-03-20,3028.95,Centro,1,PAGO-AHC-6202,100.0,True,PAGO-AHC-6202,PAGO,AHC
+Tarjeta,Ángela Eugenia Pineda,1,VEN-7430-SnR,PAGO-ZeD-7541,2025-03-09,3073.94,Norte,1,PAGO-ZeD-7541,100.0,True,PAGO-ZeD-7541,PAGO,ZeD
+Efectivo,Leticia Prieto,1,VEN-6649-rJJ,PAGO-GRp-2110,2025-03-09,1364.05,Sur,1,,0.0,False,PAGO-GRp-2110,,
+Efectivo,Mario Gilberto Verduzco,1,VEN-1417-rGM,PAGO-rJj-3538,2025-04-06,1069.4,Norte,1,PAGO-rJj-3538,100.0,True,PAGO-rJj-3538,PAGO,rJj
+Tarjeta,Nicolás Zaragoza,1,VEN-9740-OtJ,PAGO-iXL-4239,2025-03-12,2922.07,Norte,1,,0.0,False,PAGO-iXL-4239,,
+Transferencia,Lic. Débora Olivo,1,VEN-7572-wYF,PAGO-XKN-6242,2025-03-31,4161.29,Centro,1,PAGO-XKN-6242,100.0,True,PAGO-XKN-6242,PAGO,XKN
+Tarjeta,Marisol Julio Moreno Garay,1,VEN-4901-Lwr,PAGO-Bdb-2202,2025-03-24,626.84,Centro,1,PAGO-Bdb-2202,100.0,True,PAGO-Bdb-2202,PAGO,Bdb
+Tarjeta,Sr(a). Mayte Abreu,1,VEN-6399-Yjj,PAGO-rte-3657,2025-03-30,384.67,Norte,1,PAGO-rte-3657,100.0,True,PAGO-rte-3657,PAGO,rte
+Tarjeta,Patricio Augusto Chavarría Arreola,1,VEN-1276-AqZ,PAGO-bMc-6950,2025-04-05,2968.9,Norte,1,PAGO-bMc-6950,100.0,True,PAGO-bMc-6950,PAGO,bMc
+Transferencia,Rodolfo Sofía Merino Morales,1,VEN-3215-gdC,PAGO-JVT-4921,2025-03-25,2326.3,Norte,1,PAGO-JVT-4921,100.0,True,PAGO-JVT-4921,PAGO,JVT
+Efectivo,Gabino Cortez,1,VEN-8268-dAt,PAGO-jEx-0613,2025-03-30,507.81,Norte,1,PAGO-jEx-0613,100.0,True,PAGO-jEx-0613,PAGO,jEx
+Tarjeta,Mariana Omar Jaramillo Godínez,1,VEN-2884-MGj,PAGO-bQN-7160,2025-04-05,1639.9,Sur,1,PAGO-bQN-7160,100.0,True,PAGO-bQN-7160,PAGO,bQN
+Transferencia,Ana María Cornelio Rosado,1,VEN-9346-PWO,PAGO-uHD-7488,2025-03-15,3882.18,Norte,1,PAGO-uHD-7488,100.0,True,PAGO-uHD-7488,PAGO,uHD
+Transferencia,Noelia Micaela Pichardo Garay,1,VEN-9870-JPs,PAGO-RJy-3086,2025-03-16,1891.06,Norte,1,PAGO-RJy-3086,100.0,True,PAGO-RJy-3086,PAGO,RJy
+Transferencia,Jesús Abel Munguía,1,VEN-8587-Qne,PAGO-EhP-1299,2025-04-02,3764.23,Centro,1,PAGO-EhP-1299,100.0,True,PAGO-EhP-1299,PAGO,EhP
+Transferencia,Rufino Cisneros,1,VEN-6845-oRs,PAGO-TXe-7224,2025-03-17,3160.95,Centro,1,PAGO-TXe-7224,100.0,True,PAGO-TXe-7224,PAGO,TXe
+Transferencia,Emilia Becerra Sosa,1,VEN-6725-oue,PAGO-Azo-5224,2025-04-04,1728.26,Sur,1,PAGO-Azo-5224,100.0,True,PAGO-Azo-5224,PAGO,Azo
+Transferencia,María Porfirio Barajas,1,VEN-0423-wMf,PAGO-hBp-3247,2025-04-04,987.6,Centro,1,,0.0,False,PAGO-hBp-3247,,
+Efectivo,Pascual Carla Rincón Sanches,1,VEN-9983-REc,PAGO-KtF-7629,2025-03-31,3543.01,Sur,1,PAGO-KtF-7629,100.0,True,PAGO-KtF-7629,PAGO,KtF
+Efectivo,Modesto Patricio Lerma,1,VEN-9838-UaR,PAGO-qfe-5372,2025-04-07,924.99,Centro,1,,0.0,False,PAGO-qfe-5372,,
+Transferencia,Alta  Gracia Virginia Granado,1,VEN-6759-paq,PAGO-fXA-5654,2025-03-22,191.36,Norte,1,PAGO-fXA-5654,100.0,True,PAGO-fXA-5654,PAGO,fXA
+Efectivo,Bianca Germán Urrutia Valencia,1,VEN-6631-YUg,PAGO-MAo-3292,2025-03-28,3690.79,Centro,1,PAGO-MAo-3292,100.0,True,PAGO-MAo-3292,PAGO,MAo
+Efectivo,Sr(a). Alfredo Ybarra,1,VEN-0236-uDd,PAGO-ESD-7118,2025-03-13,4750.32,Sur,1,PAGO-ESD-7118,100.0,True,PAGO-ESD-7118,PAGO,ESD
+Transferencia,Lic. Sessa Rodríquez,1,VEN-3568-DOM,PAGO-wjw-3948,2025-03-26,1593.08,Sur,1,PAGO-wjw-3948,100.0,True,PAGO-wjw-3948,PAGO,wjw
+Transferencia,Bruno Cuellar Corona,1,VEN-3222-USr,PAGO-GmE-3966,2025-03-31,445.36,Sur,1,PAGO-GmE-3966,100.0,True,PAGO-GmE-3966,PAGO,GmE
+Tarjeta,Lic. Caridad Paredes,1,VEN-4177-XXB,PAGO-RLI-8570,2025-03-11,3814.63,Norte,1,PAGO-RLI-8570,100.0,True,PAGO-RLI-8570,PAGO,RLI
+Efectivo,Ernesto Jerónimo Toro Menchaca,1,VEN-7505-IdS,PAGO-tAq-0606,2025-04-05,736.98,Centro,1,PAGO-tAq-0606,100.0,True,PAGO-tAq-0606,PAGO,tAq
+Efectivo,Ivonne Berríos Acuña,1,VEN-1773-pbN,PAGO-bzd-0775,2025-03-10,2479.56,Centro,1,PAGO-bzd-0775,100.0,True,PAGO-bzd-0775,PAGO,bzd
+Tarjeta,Catalina Curiel Gallegos,1,VEN-0145-IaJ,PAGO-ffM-0336,2025-03-09,4778.85,Sur,1,,0.0,False,PAGO-ffM-0336,,
+Efectivo,Esteban Zoé Ballesteros,1,VEN-8989-mYq,PAGO-cqn-0319,2025-03-15,634.92,Norte,1,PAGO-cqn-0319,100.0,True,PAGO-cqn-0319,PAGO,cqn
+Tarjeta,María Elena Claudio Ureña Tovar,1,VEN-5745-YNt,PAGO-lhL-1692,2025-03-15,3234.63,Norte,1,PAGO-lhL-1692,100.0,True,PAGO-lhL-1692,PAGO,lhL
+Tarjeta,Ivonne Ulibarri Zapata,1,VEN-2265-Bbt,PAGO-ILU-6140,2025-03-31,1433.91,Centro,1,,0.0,False,PAGO-ILU-6140,,
+Transferencia,Rosario Mónica Rodrígez Porras,1,VEN-3524-Xxq,PAGO-DRI-9886,2025-03-25,2353.48,Norte,1,PAGO-DRI-9886,100.0,True,PAGO-DRI-9886,PAGO,DRI
+Tarjeta,Víctor Prado,1,VEN-2199-vim,PAGO-DBD-7094,2025-03-10,1657.75,Sur,1,PAGO-DBD-7094,100.0,True,PAGO-DBD-7094,PAGO,DBD
+Transferencia,Dulce Valverde,1,VEN-9728-yDO,PAGO-Nsc-0223,2025-03-31,4136.79,Norte,1,PAGO-Nsc-0223,100.0,True,PAGO-Nsc-0223,PAGO,Nsc
+Efectivo,Mauricio Matías Acevedo,1,VEN-4572-lCr,PAGO-fHA-8544,2025-04-05,2845.92,Sur,1,,0.0,False,PAGO-fHA-8544,,
+Efectivo,Jonás Cuellar Alonzo,1,VEN-2878-rZe,PAGO-sat-3318,2025-04-04,1537.42,Centro,1,PAGO-sat-3318,100.0,True,PAGO-sat-3318,PAGO,sat
+Efectivo,Dr. Marisela Quintero,1,VEN-0701-ooN,PAGO-NPL-7152,2025-03-21,4333.93,Norte,1,PAGO-NPL-7152,100.0,True,PAGO-NPL-7152,PAGO,NPL
+Tarjeta,María Cristina Varela Salazar,1,VEN-2248-cUV,PAGO-wur-9605,2025-04-06,1388.21,Centro,1,PAGO-wur-9605,100.0,True,PAGO-wur-9605,PAGO,wur
+Tarjeta,Dr. Hernán Márquez,1,VEN-4589-guF,PAGO-fXG-8673,2025-03-13,3417.52,Sur,1,,0.0,False,PAGO-fXG-8673,,
+Tarjeta,Cristal Rojas Tirado,1,VEN-9105-Lrb,PAGO-LRd-9603,2025-03-11,4417.45,Centro,1,PAGO-LRd-9603,100.0,True,PAGO-LRd-9603,PAGO,LRd
+Tarjeta,Gonzalo Ornelas Roque,1,VEN-5006-nmQ,PAGO-moE-7521,2025-03-22,2745.1,Sur,1,,0.0,False,PAGO-moE-7521,,
+Tarjeta,Clara Girón Tovar,1,VEN-0491-vZt,PAGO-WRo-9242,2025-03-13,4853.95,Sur,1,PAGO-WRo-9242,100.0,True,PAGO-WRo-9242,PAGO,WRo
+Tarjeta,Aldo Longoria Girón,1,VEN-3385-kOQ,PAGO-xBb-3661,2025-03-19,2407.92,Centro,1,PAGO-xBb-3661,100.0,True,PAGO-xBb-3661,PAGO,xBb
+Transferencia,Lic. Isaac Esparza,1,VEN-8273-iTT,PAGO-HZY-5257,2025-03-31,523.96,Centro,1,PAGO-HZY-5257,100.0,True,PAGO-HZY-5257,PAGO,HZY
+Transferencia,Flavio Camarillo,1,VEN-4011-xUp,PAGO-bEW-1166,2025-03-21,3486.96,Sur,1,PAGO-bEW-1166,100.0,True,PAGO-bEW-1166,PAGO,bEW
+Tarjeta,Margarita Nieves,1,VEN-3447-OWk,PAGO-BtN-7736,2025-03-23,2335.06,Centro,1,PAGO-BtN-7736,100.0,True,PAGO-BtN-7736,PAGO,BtN
+Tarjeta,Marcela Graciela Vallejo,1,VEN-6535-yQs,PAGO-kNX-4596,2025-04-07,761.68,Norte,1,PAGO-kNX-4596,100.0,True,PAGO-kNX-4596,PAGO,kNX
+Efectivo,Emilio Jaqueline Colunga Casárez,1,VEN-0601-Oqy,PAGO-Spy-3474,2025-03-11,2118.34,Norte,1,,0.0,False,PAGO-Spy-3474,,
+Efectivo,Sessa Paulina López Rodríquez,1,VEN-0231-UfA,PAGO-URS-7418,2025-03-20,2178.82,Norte,1,PAGO-URS-7418,100.0,True,PAGO-URS-7418,PAGO,URS
+Transferencia,Teodoro Haro Uribe,1,VEN-8367-VGa,PAGO-UTq-1304,2025-03-19,4632.37,Centro,1,PAGO-UTq-1304,100.0,True,PAGO-UTq-1304,PAGO,UTq
+Efectivo,Bruno Darío Pelayo Nevárez,1,VEN-6726-Jpx,PAGO-wGn-3456,2025-03-18,4947.25,Sur,1,PAGO-wGn-3456,100.0,True,PAGO-wGn-3456,PAGO,wGn
+Tarjeta,Jorge Luis Loera Salcido,1,VEN-2231-bcB,PAGO-KLo-8838,2025-03-18,2022.63,Sur,1,PAGO-KLo-8838,100.0,True,PAGO-KLo-8838,PAGO,KLo
+Efectivo,Itzel Quintero,1,VEN-8432-yze,PAGO-ZSd-5180,2025-03-19,1138.52,Centro,1,,0.0,False,PAGO-ZSd-5180,,
+Efectivo,Nicolás Sepúlveda,1,VEN-0255-CHM,PAGO-JEA-5393,2025-03-12,3613.15,Centro,1,PAGO-JEA-5393,100.0,True,PAGO-JEA-5393,PAGO,JEA
+Efectivo,Leonel Lerma,1,VEN-4109-Waz,PAGO-mIt-8856,2025-03-20,1786.69,Norte,1,,0.0,False,PAGO-mIt-8856,,
+Efectivo,Ing. Ana Luisa Quesada,1,VEN-2457-MOY,PAGO-OmF-6475,2025-03-21,4428.7,Centro,1,,0.0,False,PAGO-OmF-6475,,
+Tarjeta,Abel Juan Rosado Gallardo,1,VEN-7922-dgx,PAGO-tGN-9941,2025-04-07,3282.68,Norte,1,,0.0,False,PAGO-tGN-9941,,
+Transferencia,Teodoro Leticia Cedillo Zavala,1,VEN-8535-gBo,PAGO-CDn-2402,2025-03-13,4852.48,Norte,1,PAGO-CDn-2402,100.0,True,PAGO-CDn-2402,PAGO,CDn
+Efectivo,Silvano Ángel Rojas,1,VEN-6587-tLb,PAGO-hVL-2450,2025-03-23,1748.77,Centro,1,PAGO-hVL-2450,100.0,True,PAGO-hVL-2450,PAGO,hVL
+Transferencia,Yolanda Juan Carlos Báez Magaña,1,VEN-2309-EgC,PAGO-uTm-9361,2025-04-01,589.43,Centro,1,,0.0,False,PAGO-uTm-9361,,
+Tarjeta,Ing. Israel Sarabia,1,VEN-7060-gbc,PAGO-Ixn-0225,2025-03-20,1517.68,Sur,1,PAGO-Ixn-0225,100.0,True,PAGO-Ixn-0225,PAGO,Ixn
+Efectivo,Mtro. Cristina Irizarry,1,VEN-1886-cal,PAGO-Bhe-7480,2025-03-14,4173.09,Norte,1,,0.0,False,PAGO-Bhe-7480,,
+Tarjeta,Ana María Luisa Santacruz Garay,1,VEN-8638-Ndh,PAGO-pOO-7062,2025-04-07,3746.8,Sur,1,PAGO-pOO-7062,100.0,True,PAGO-pOO-7062,PAGO,pOO
+Transferencia,Sr(a). Wendolin Escalante,1,VEN-7442-jug,PAGO-hnK-2215,2025-04-07,2722.54,Sur,1,PAGO-hnK-2215,100.0,True,PAGO-hnK-2215,PAGO,hnK
+Efectivo,Miguel Saiz,1,VEN-4132-EeL,PAGO-FpT-9127,2025-04-06,2108.75,Norte,1,PAGO-FpT-9127,100.0,True,PAGO-FpT-9127,PAGO,FpT
+Tarjeta,Mateo Marcela Mireles Elizondo,1,VEN-9771-CYh,PAGO-tEA-4940,2025-04-02,4810.8,Norte,1,PAGO-tEA-4940,100.0,True,PAGO-tEA-4940,PAGO,tEA
+Tarjeta,Blanca Gaitán,1,VEN-6025-lmO,PAGO-TIc-2847,2025-03-09,380.33,Sur,1,PAGO-TIc-2847,100.0,True,PAGO-TIc-2847,PAGO,TIc
+Tarjeta,Gilberto Balderas,1,VEN-4673-vBj,PAGO-DUr-0920,2025-03-30,2959.1,Norte,1,PAGO-DUr-0920,100.0,True,PAGO-DUr-0920,PAGO,DUr
+Tarjeta,Arturo Valdez,1,VEN-2079-GnZ,PAGO-ECk-6406,2025-03-22,4257.08,Sur,1,,0.0,False,PAGO-ECk-6406,,
+Transferencia,Mario Bernabé Manzanares Nazario,1,VEN-7249-inh,PAGO-ywS-6417,2025-03-09,204.44,Norte,1,PAGO-ywS-6417,100.0,True,PAGO-ywS-6417,PAGO,ywS
+Transferencia,Yolanda Ramón Cadena,1,VEN-0371-Rbm,PAGO-QeG-4290,2025-03-13,496.58,Centro,1,PAGO-QeG-4290,100.0,True,PAGO-QeG-4290,PAGO,QeG
+Efectivo,Genaro Carrasco Concepción,1,VEN-7482-oLh,PAGO-zwV-0649,2025-03-21,4858.89,Sur,1,PAGO-zwV-0649,100.0,True,PAGO-zwV-0649,PAGO,zwV
+Transferencia,Juan Evelio Rojas,1,VEN-5527-WKo,PAGO-eyx-6182,2025-03-18,4155.91,Norte,1,PAGO-eyx-6182,100.0,True,PAGO-eyx-6182,PAGO,eyx
+Transferencia,Caridad Méndez,1,VEN-2019-AUC,PAGO-DYH-3148,2025-03-26,2949.1,Sur,1,PAGO-DYH-3148,100.0,True,PAGO-DYH-3148,PAGO,DYH
+Efectivo,Jacobo Corral Olvera,1,VEN-3479-OZZ,PAGO-sHV-8769,2025-03-18,2866.63,Norte,1,,0.0,False,PAGO-sHV-8769,,
+Tarjeta,Esther Raya,1,VEN-8461-NKP,PAGO-fGN-2618,2025-03-17,704.72,Centro,1,PAGO-fGN-2618,100.0,True,PAGO-fGN-2618,PAGO,fGN
+Transferencia,Humberto Marisol Narváez Zaragoza,1,VEN-0908-slg,PAGO-Qpg-4228,2025-04-03,4519.29,Norte,1,,0.0,False,PAGO-Qpg-4228,,
+Transferencia,Alta  Gracia Valencia,1,VEN-4295-aFt,PAGO-Oea-2530,2025-03-13,2012.96,Sur,1,PAGO-Oea-2530,100.0,True,PAGO-Oea-2530,PAGO,Oea
+Tarjeta,Camilo Alonso Villarreal,1,VEN-2925-xVO,PAGO-FdX-4472,2025-03-24,2321.8,Sur,1,PAGO-FdX-4472,100.0,True,PAGO-FdX-4472,PAGO,FdX
+Efectivo,Wendolin Salgado Amador,1,VEN-2025-jiA,PAGO-PFh-0212,2025-03-13,3538.38,Centro,1,,0.0,False,PAGO-PFh-0212,,
+Tarjeta,Antonio Ulibarri Alcala,1,VEN-0526-XKb,PAGO-tCR-3980,2025-03-14,3037.09,Sur,1,,0.0,False,PAGO-tCR-3980,,
+Efectivo,Sonia Canales Barela,1,VEN-9144-oyi,PAGO-IXB-9884,2025-03-18,3857.02,Norte,1,PAGO-IXB-9884,100.0,True,PAGO-IXB-9884,PAGO,IXB
+Transferencia,Enrique Magdalena Ríos Barragán,1,VEN-4813-lQQ,PAGO-cFi-2157,2025-03-22,4183.08,Sur,1,PAGO-cFi-2157,100.0,True,PAGO-cFi-2157,PAGO,cFi
+Transferencia,Dr. Florencia Rojo,1,VEN-2445-QAU,PAGO-luW-9673,2025-04-03,698.84,Sur,1,PAGO-luW-9673,100.0,True,PAGO-luW-9673,PAGO,luW
+Efectivo,Ing. Asunción Vigil,1,VEN-1030-mTx,PAGO-vPv-0972,2025-03-20,3849.8,Centro,1,PAGO-vPv-0972,100.0,True,PAGO-vPv-0972,PAGO,vPv
+Efectivo,Elisa Vallejo,1,VEN-6613-VJx,PAGO-wIA-2914,2025-03-22,2529.5,Norte,1,PAGO-wIA-2914,100.0,True,PAGO-wIA-2914,PAGO,wIA
+Efectivo,Timoteo Lorena Velasco Venegas,1,VEN-4700-Gfi,PAGO-Hvs-5454,2025-03-10,3811.97,Norte,1,PAGO-Hvs-5454,100.0,True,PAGO-Hvs-5454,PAGO,Hvs
+Tarjeta,Andrea María Luisa Sanches Soto,1,VEN-6186-pyX,PAGO-ESm-8739,2025-04-05,3890.51,Centro,1,PAGO-ESm-8739,100.0,True,PAGO-ESm-8739,PAGO,ESm
+Transferencia,Abraham Florencia Chavarría Benítez,1,VEN-6070-tkm,PAGO-IJj-0204,2025-03-22,4372.54,Sur,1,PAGO-IJj-0204,100.0,True,PAGO-IJj-0204,PAGO,IJj
+Transferencia,Dulce Vicente Alejandro,1,VEN-3088-jVt,PAGO-gAd-9101,2025-03-18,856.53,Norte,1,PAGO-gAd-9101,100.0,True,PAGO-gAd-9101,PAGO,gAd
+Tarjeta,Dr. Aurora Urbina,1,VEN-5105-lIj,PAGO-whS-9974,2025-04-03,976.47,Sur,1,PAGO-whS-9974,100.0,True,PAGO-whS-9974,PAGO,whS
+Transferencia,Rebeca Cabán,1,VEN-0359-JwS,PAGO-yEH-5753,2025-03-27,1729.67,Norte,1,PAGO-yEH-5753,100.0,True,PAGO-yEH-5753,PAGO,yEH
+Tarjeta,Dr. Rodrigo Salazar,1,VEN-6318-aQP,PAGO-fIj-9343,2025-03-14,3976.52,Sur,1,PAGO-fIj-9343,100.0,True,PAGO-fIj-9343,PAGO,fIj
+Tarjeta,Graciela Jaime Casárez Partida,1,VEN-6216-vkS,PAGO-Oab-1475,2025-04-06,4781.72,Norte,1,PAGO-Oab-1475,100.0,True,PAGO-Oab-1475,PAGO,Oab
+Transferencia,Socorro Amalia Ramón Aragón,1,VEN-1784-cTB,PAGO-eKA-3529,2025-03-14,3858.4,Norte,1,PAGO-eKA-3529,100.0,True,PAGO-eKA-3529,PAGO,eKA
+Efectivo,Marco Antonio Campos,1,VEN-5595-AYh,PAGO-mEY-4585,2025-04-04,4170.19,Centro,1,PAGO-mEY-4585,100.0,True,PAGO-mEY-4585,PAGO,mEY
+Transferencia,Lic. Eduardo Negrón,1,VEN-9192-GGv,PAGO-iwg-2967,2025-03-20,4393.72,Centro,1,,0.0,False,PAGO-iwg-2967,,
+Transferencia,Hilda Cordero,1,VEN-2719-dJz,PAGO-FTA-7540,2025-03-31,3788.77,Sur,1,,0.0,False,PAGO-FTA-7540,,
+Efectivo,José Luis Cervantes,1,VEN-8329-xcz,PAGO-bYr-9912,2025-03-31,3608.89,Sur,1,PAGO-bYr-9912,100.0,True,PAGO-bYr-9912,PAGO,bYr
+Transferencia,Hugo Octavio Mejía,1,VEN-5439-JXq,PAGO-VfN-2520,2025-03-13,4626.66,Norte,1,PAGO-VfN-2520,100.0,True,PAGO-VfN-2520,PAGO,VfN
+Tarjeta,José Luis Partida Lozada,1,VEN-3975-bYp,PAGO-tMI-4947,2025-03-13,2239.26,Sur,1,PAGO-tMI-4947,100.0,True,PAGO-tMI-4947,PAGO,tMI
+Transferencia,Perla Miramontes,1,VEN-5263-mgE,PAGO-IfH-7799,2025-03-27,2593.85,Norte,1,PAGO-IfH-7799,100.0,True,PAGO-IfH-7799,PAGO,IfH
+Transferencia,Noemí Guerrero Córdova,1,VEN-4460-Bcp,PAGO-rmy-3874,2025-03-24,1304.57,Sur,1,PAGO-rmy-3874,100.0,True,PAGO-rmy-3874,PAGO,rmy
+Efectivo,Lic. Gilberto Sierra,1,VEN-7734-VmH,PAGO-veW-2765,2025-03-14,4288.84,Norte,1,PAGO-veW-2765,100.0,True,PAGO-veW-2765,PAGO,veW
+Efectivo,Mario Figueroa,1,VEN-4419-zxY,PAGO-uwr-5748,2025-04-01,1359.71,Centro,1,,0.0,False,PAGO-uwr-5748,,
+Tarjeta,Helena Rosa Márquez,1,VEN-9939-ixu,PAGO-lfy-1233,2025-04-04,3185.03,Centro,1,,0.0,False,PAGO-lfy-1233,,
+Efectivo,Zeferino Barraza,1,VEN-6288-jrw,PAGO-RAC-8708,2025-03-25,3346.33,Centro,1,PAGO-RAC-8708,100.0,True,PAGO-RAC-8708,PAGO,RAC
+Tarjeta,Perla Bernal,1,VEN-0138-TCm,PAGO-Yck-4362,2025-03-14,1572.16,Sur,1,PAGO-Yck-4362,100.0,True,PAGO-Yck-4362,PAGO,Yck
+Transferencia,María José Beltrán Botello,1,VEN-9663-PBN,PAGO-Jnr-4549,2025-03-29,3234.88,Sur,1,PAGO-Jnr-4549,100.0,True,PAGO-Jnr-4549,PAGO,Jnr
+Transferencia,Rolando Gálvez,1,VEN-6987-CKa,PAGO-VqD-9463,2025-03-29,4598.2,Sur,1,,0.0,False,PAGO-VqD-9463,,
+Efectivo,Ramiro Miranda Salcido,1,VEN-9855-hHJ,PAGO-rKS-7778,2025-03-25,3419.5,Centro,1,PAGO-rKS-7778,100.0,True,PAGO-rKS-7778,PAGO,rKS
+Efectivo,Martha Gloria Vela Garza,1,VEN-3202-Ebe,PAGO-tkn-2633,2025-03-10,2995.67,Norte,1,PAGO-tkn-2633,100.0,True,PAGO-tkn-2633,PAGO,tkn
+Efectivo,Sr(a). Gabino Ponce,1,VEN-8853-Vmd,PAGO-KMM-0444,2025-03-30,1461.65,Centro,1,PAGO-KMM-0444,100.0,True,PAGO-KMM-0444,PAGO,KMM
+Efectivo,Karina Santillán,1,VEN-2548-Cdh,PAGO-DPB-5034,2025-04-05,3653.04,Sur,1,PAGO-DPB-5034,100.0,True,PAGO-DPB-5034,PAGO,DPB
+Tarjeta,Cristobal Guevara Barreto,1,VEN-5070-OHv,PAGO-tYD-3346,2025-04-03,832.57,Sur,1,PAGO-tYD-3346,100.0,True,PAGO-tYD-3346,PAGO,tYD
+Transferencia,Gabriel Hernán Carvajal,1,VEN-2288-qWl,PAGO-ZyU-1216,2025-03-15,3514.94,Centro,1,PAGO-ZyU-1216,100.0,True,PAGO-ZyU-1216,PAGO,ZyU
+Transferencia,Ana Luisa Uriel Zarate,1,VEN-1719-GYA,PAGO-lob-9241,2025-03-16,2857.76,Norte,1,PAGO-lob-9241,100.0,True,PAGO-lob-9241,PAGO,lob
+Transferencia,Luis Espino Reyna,1,VEN-8577-odS,PAGO-HJd-1507,2025-03-15,1009.19,Sur,1,PAGO-HJd-1507,100.0,True,PAGO-HJd-1507,PAGO,HJd
+Efectivo,Mtro. Dulce María Hernádez,1,VEN-3605-VCU,PAGO-GNf-7310,2025-03-30,4600.46,Centro,1,PAGO-GNf-7310,100.0,True,PAGO-GNf-7310,PAGO,GNf
+Tarjeta,Agustín Corona Gurule,1,VEN-2659-LDP,PAGO-SSH-9442,2025-03-23,3279.28,Norte,1,PAGO-SSH-9442,100.0,True,PAGO-SSH-9442,PAGO,SSH
+Transferencia,Iván Anaya,1,VEN-6322-cwD,PAGO-HuV-4444,2025-03-29,192.31,Centro,1,PAGO-HuV-4444,100.0,True,PAGO-HuV-4444,PAGO,HuV
+Transferencia,Benjamín Beatriz Armendáriz,1,VEN-3045-DPy,PAGO-Vsq-2398,2025-03-27,253.16,Sur,1,,0.0,False,PAGO-Vsq-2398,,
+Transferencia,Nadia Alfredo Ontiveros,1,VEN-7999-dxx,PAGO-Dan-2869,2025-04-03,1358.81,Centro,1,PAGO-Dan-2869,100.0,True,PAGO-Dan-2869,PAGO,Dan
+Tarjeta,Delia Soto Valverde,1,VEN-6711-kVz,PAGO-abC-3837,2025-03-29,676.02,Centro,1,,0.0,False,PAGO-abC-3837,,
+Tarjeta,Angélica Rodríguez,1,VEN-7825-BGN,PAGO-qym-8737,2025-03-13,4590.36,Sur,1,PAGO-qym-8737,100.0,True,PAGO-qym-8737,PAGO,qym
+Tarjeta,Angélica Benjamín Laureano,1,VEN-8721-EJm,PAGO-igS-1428,2025-03-31,1884.85,Centro,1,,0.0,False,PAGO-igS-1428,,
+Transferencia,Humberto Raya,1,VEN-1141-MsE,PAGO-ckZ-2771,2025-03-19,4969.48,Centro,1,PAGO-ckZ-2771,100.0,True,PAGO-ckZ-2771,PAGO,ckZ
+Transferencia,Lic. Angélica de la Garza,1,VEN-5426-oev,PAGO-Oiy-8919,2025-03-21,4333.17,Centro,1,PAGO-Oiy-8919,100.0,True,PAGO-Oiy-8919,PAGO,Oiy
+Tarjeta,Elvira Esperanza Pedroza de la Rosa,1,VEN-1004-UBO,PAGO-VMF-8421,2025-03-26,640.49,Sur,1,PAGO-VMF-8421,100.0,True,PAGO-VMF-8421,PAGO,VMF
+Transferencia,Dr. Alicia Zedillo,1,VEN-4911-MnP,PAGO-ewO-6107,2025-04-06,1374.69,Sur,1,PAGO-ewO-6107,100.0,True,PAGO-ewO-6107,PAGO,ewO
+Tarjeta,Esther Wendolin Montaño Alfaro,1,VEN-3080-gLj,PAGO-evf-9446,2025-03-26,2665.4,Centro,1,PAGO-evf-9446,100.0,True,PAGO-evf-9446,PAGO,evf
+Efectivo,Bernabé Sandoval Trujillo,1,VEN-0644-AYp,PAGO-JKs-5828,2025-04-06,1308.06,Centro,1,PAGO-JKs-5828,100.0,True,PAGO-JKs-5828,PAGO,JKs
+Tarjeta,Lucas Clemente Madrid Mena,1,VEN-3910-TYP,PAGO-irp-3889,2025-03-22,707.25,Sur,1,PAGO-irp-3889,100.0,True,PAGO-irp-3889,PAGO,irp
+Efectivo,Mtro. Amalia Ulloa,1,VEN-8922-GXC,PAGO-IKu-7981,2025-03-16,2783.04,Norte,1,PAGO-IKu-7981,100.0,True,PAGO-IKu-7981,PAGO,IKu
+Transferencia,Ariadna Vélez Valdez,1,VEN-4259-IUI,PAGO-Kbu-1199,2025-03-30,2949.25,Sur,1,,0.0,False,PAGO-Kbu-1199,,
+Tarjeta,Felix Quesada,1,VEN-9579-OYq,PAGO-KTh-3414,2025-03-27,4831.0,Norte,1,PAGO-KTh-3414,100.0,True,PAGO-KTh-3414,PAGO,KTh
+Tarjeta,Juan Abigail Ríos Verdugo,1,VEN-0498-nPX,PAGO-vAE-8842,2025-04-01,177.48,Sur,1,PAGO-vAE-8842,100.0,True,PAGO-vAE-8842,PAGO,vAE
+Tarjeta,Lic. Gilberto Mejía,1,VEN-6944-nVI,PAGO-YMx-7699,2025-04-06,126.34,Sur,1,PAGO-YMx-7699,100.0,True,PAGO-YMx-7699,PAGO,YMx
+Efectivo,Hernán Yeni Calderón Palomino,1,VEN-2679-LSm,PAGO-ZNC-6874,2025-03-11,2808.73,Sur,1,,0.0,False,PAGO-ZNC-6874,,
+Efectivo,Lic. César Ureña,1,VEN-6320-Pvu,PAGO-QMm-9442,2025-03-29,2714.16,Centro,1,PAGO-QMm-9442,100.0,True,PAGO-QMm-9442,PAGO,QMm
+Efectivo,Pamela Estela Aguilar,1,VEN-5043-gFA,PAGO-Qma-9406,2025-03-09,2067.65,Norte,1,PAGO-Qma-9406,100.0,True,PAGO-Qma-9406,PAGO,Qma
+Tarjeta,Mtro. Ignacio Ibarra,1,VEN-7086-tcJ,PAGO-kyh-4704,2025-03-30,3129.44,Centro,1,PAGO-kyh-4704,100.0,True,PAGO-kyh-4704,PAGO,kyh
+Transferencia,Estela Micaela Razo Ochoa,1,VEN-7281-xqP,PAGO-caE-7403,2025-03-20,2266.66,Centro,1,PAGO-caE-7403,100.0,True,PAGO-caE-7403,PAGO,caE
+Transferencia,Alfredo Israel Patiño,1,VEN-8763-fKs,PAGO-UBf-1408,2025-03-29,1175.96,Centro,1,PAGO-UBf-1408,100.0,True,PAGO-UBf-1408,PAGO,UBf
+Tarjeta,Marisol Daniela Durán,1,VEN-4722-lZi,PAGO-dPA-3829,2025-04-07,3905.56,Norte,1,PAGO-dPA-3829,100.0,True,PAGO-dPA-3829,PAGO,dPA
+Tarjeta,Serafín Burgos,1,VEN-5783-hGH,PAGO-DBg-7564,2025-03-11,4143.71,Norte,1,PAGO-DBg-7564,100.0,True,PAGO-DBg-7564,PAGO,DBg
+Efectivo,Rolando Zacarías Domínguez,1,VEN-8998-tVZ,PAGO-iyI-2029,2025-04-05,1020.6,Sur,1,PAGO-iyI-2029,100.0,True,PAGO-iyI-2029,PAGO,iyI
+Efectivo,Armando Antonio Arteaga Porras,1,VEN-4055-CvM,PAGO-wJh-0520,2025-03-25,3602.27,Norte,1,PAGO-wJh-0520,100.0,True,PAGO-wJh-0520,PAGO,wJh
+Transferencia,Eloy Apodaca,1,VEN-2601-ofw,PAGO-wTB-4549,2025-04-03,4700.69,Sur,1,PAGO-wTB-4549,100.0,True,PAGO-wTB-4549,PAGO,wTB
+Tarjeta,Santiago Norma Carrión Casares,1,VEN-9812-das,PAGO-Ifw-5889,2025-03-21,662.93,Sur,1,PAGO-Ifw-5889,100.0,True,PAGO-Ifw-5889,PAGO,Ifw
+Efectivo,Rocío Toledo Puente,1,VEN-2447-EsT,PAGO-Fap-9967,2025-03-09,2758.2,Centro,1,PAGO-Fap-9967,100.0,True,PAGO-Fap-9967,PAGO,Fap
+Efectivo,Francisco Javier Nevárez,1,VEN-1088-nCj,PAGO-EUw-2583,2025-04-03,787.84,Centro,1,PAGO-EUw-2583,100.0,True,PAGO-EUw-2583,PAGO,EUw
+Tarjeta,Perla Enrique Zedillo,1,VEN-5005-MjP,PAGO-cTy-2728,2025-03-22,1904.92,Norte,1,PAGO-cTy-2728,100.0,True,PAGO-cTy-2728,PAGO,cTy
+Tarjeta,Mayte Rodríquez,1,VEN-3537-Jpv,PAGO-PcQ-7578,2025-03-13,264.0,Sur,1,,0.0,False,PAGO-PcQ-7578,,
+Efectivo,Fernando Jonás Suárez Urrutia,1,VEN-0217-WoW,PAGO-ZLf-5800,2025-03-10,3233.41,Norte,1,PAGO-ZLf-5800,100.0,True,PAGO-ZLf-5800,PAGO,ZLf
+Efectivo,Sr(a). Itzel Gastélum,1,VEN-5011-yKd,PAGO-Wmf-4074,2025-03-19,2885.12,Sur,1,PAGO-Wmf-4074,100.0,True,PAGO-Wmf-4074,PAGO,Wmf
+Efectivo,Lic. Óscar Madera,1,VEN-9459-ImD,PAGO-myW-4079,2025-04-01,1084.91,Centro,1,PAGO-myW-4079,100.0,True,PAGO-myW-4079,PAGO,myW
+Tarjeta,Dulce Curiel,1,VEN-5311-eqn,PAGO-UWO-5187,2025-03-26,2115.04,Sur,1,,0.0,False,PAGO-UWO-5187,,
+Transferencia,Felix Aragón,1,VEN-5435-pZB,PAGO-dNe-8117,2025-04-05,159.98,Sur,1,PAGO-dNe-8117,100.0,True,PAGO-dNe-8117,PAGO,dNe
+Transferencia,Ramiro Rebeca Roque Ulloa,1,VEN-1312-SDD,PAGO-lHO-7907,2025-03-09,3301.76,Sur,1,PAGO-lHO-7907,100.0,True,PAGO-lHO-7907,PAGO,lHO
+Efectivo,Rodrigo Bernardo Otero Roque,1,VEN-8624-QCq,PAGO-xIx-6384,2025-04-05,4540.15,Centro,1,PAGO-xIx-6384,100.0,True,PAGO-xIx-6384,PAGO,xIx
+Efectivo,Dr. Rolando Partida,1,VEN-1724-ZDi,PAGO-DKe-7670,2025-03-23,674.22,Norte,1,PAGO-DKe-7670,100.0,True,PAGO-DKe-7670,PAGO,DKe
+Transferencia,Julio César Ballesteros,1,VEN-9919-XPb,PAGO-JaY-0086,2025-03-09,2564.29,Sur,1,PAGO-JaY-0086,100.0,True,PAGO-JaY-0086,PAGO,JaY
+Efectivo,Andrés Castañeda,1,VEN-1446-vaO,PAGO-eiA-0277,2025-03-15,2025.71,Norte,1,PAGO-eiA-0277,100.0,True,PAGO-eiA-0277,PAGO,eiA
+Transferencia,Lilia Mena Galindo,1,VEN-3307-ToA,PAGO-kon-2410,2025-03-24,705.33,Norte,1,PAGO-kon-2410,100.0,True,PAGO-kon-2410,PAGO,kon
+Transferencia,Minerva Velasco,1,VEN-8594-JlA,PAGO-MOM-9087,2025-04-05,2119.01,Sur,1,PAGO-MOM-9087,100.0,True,PAGO-MOM-9087,PAGO,MOM
+Efectivo,Florencia Portillo,1,VEN-6838-YqS,PAGO-uPa-0248,2025-03-29,612.3,Sur,1,PAGO-uPa-0248,100.0,True,PAGO-uPa-0248,PAGO,uPa
+Transferencia,Sr(a). Gustavo Bétancourt,1,VEN-6278-tSg,PAGO-JfA-0953,2025-03-20,3177.71,Sur,1,PAGO-JfA-0953,100.0,True,PAGO-JfA-0953,PAGO,JfA
+Tarjeta,Eugenia Jimínez Mondragón,1,VEN-8018-zsl,PAGO-tcr-0755,2025-03-10,4701.3,Sur,1,PAGO-tcr-0755,100.0,True,PAGO-tcr-0755,PAGO,tcr
+Efectivo,Isabela Mota,1,VEN-6657-lpn,PAGO-vMq-3114,2025-03-23,2164.38,Sur,1,PAGO-vMq-3114,100.0,True,PAGO-vMq-3114,PAGO,vMq
+Transferencia,Patricia Chacón Aguayo,1,VEN-0057-WCr,PAGO-SJL-0252,2025-03-12,3299.56,Centro,1,PAGO-SJL-0252,100.0,True,PAGO-SJL-0252,PAGO,SJL
+Efectivo,Ruby Beatriz Bustos Bustamante,1,VEN-9259-lBX,PAGO-jPz-7545,2025-03-18,1690.67,Centro,1,,0.0,False,PAGO-jPz-7545,,
+Transferencia,Jorge Luis Reynaldo Martínez Corrales,1,VEN-1854-MzV,PAGO-FLr-8226,2025-03-10,1944.69,Sur,1,PAGO-FLr-8226,100.0,True,PAGO-FLr-8226,PAGO,FLr
+Tarjeta,Rufino Rivera Polanco,1,VEN-2860-Lsu,PAGO-PDH-9688,2025-03-24,3224.47,Sur,1,,0.0,False,PAGO-PDH-9688,,
+Transferencia,Carlota Salazar,1,VEN-8761-dLC,PAGO-zoN-6165,2025-03-09,4169.55,Norte,1,PAGO-zoN-6165,100.0,True,PAGO-zoN-6165,PAGO,zoN
+Transferencia,Horacio Botello,1,VEN-9120-YGI,PAGO-HCP-5665,2025-03-29,3180.43,Sur,1,PAGO-HCP-5665,100.0,True,PAGO-HCP-5665,PAGO,HCP
+Transferencia,Porfirio Gutiérrez Téllez,1,VEN-9702-VOg,PAGO-yhj-2338,2025-04-02,4001.0,Centro,1,PAGO-yhj-2338,100.0,True,PAGO-yhj-2338,PAGO,yhj
+Tarjeta,Francisco Gabriela Terrazas,1,VEN-0026-kNj,PAGO-Plj-2489,2025-03-15,2050.03,Sur,1,PAGO-Plj-2489,100.0,True,PAGO-Plj-2489,PAGO,Plj
+Transferencia,María Eloisa Curiel Ortiz,1,VEN-7886-mut,PAGO-VPW-5589,2025-04-06,369.23,Centro,1,PAGO-VPW-5589,100.0,True,PAGO-VPW-5589,PAGO,VPW
+Tarjeta,René Merino,1,VEN-8883-SEj,PAGO-NOI-4881,2025-04-04,3404.81,Centro,1,PAGO-NOI-4881,100.0,True,PAGO-NOI-4881,PAGO,NOI
+Transferencia,Yeni Rosalia Ayala Partida,1,VEN-8890-mia,PAGO-ASv-5294,2025-03-17,3768.95,Norte,1,PAGO-ASv-5294,100.0,True,PAGO-ASv-5294,PAGO,ASv
+Transferencia,Rodrigo Almonte Rubio,1,VEN-8782-lvU,PAGO-Pod-8964,2025-04-07,4232.59,Norte,1,PAGO-Pod-8964,100.0,True,PAGO-Pod-8964,PAGO,Pod
+Tarjeta,Marcela Colón Armenta,1,VEN-5158-jve,PAGO-gYh-7404,2025-03-14,1652.68,Sur,1,PAGO-gYh-7404,100.0,True,PAGO-gYh-7404,PAGO,gYh
+Efectivo,Nicolás Valdez,1,VEN-2775-KFj,PAGO-CQt-2560,2025-03-21,2056.16,Centro,1,PAGO-CQt-2560,100.0,True,PAGO-CQt-2560,PAGO,CQt
+Tarjeta,Silvano Saiz Treviño,1,VEN-2871-Dub,PAGO-HjB-6204,2025-03-20,933.94,Norte,1,PAGO-HjB-6204,100.0,True,PAGO-HjB-6204,PAGO,HjB
+Transferencia,Luis Adame Zapata,1,VEN-0947-nMS,PAGO-gYX-0860,2025-03-14,4431.35,Sur,1,PAGO-gYX-0860,100.0,True,PAGO-gYX-0860,PAGO,gYX
+Efectivo,Lic. Germán Mora,1,VEN-2423-SRx,PAGO-zpm-4586,2025-03-20,2333.01,Norte,1,,0.0,False,PAGO-zpm-4586,,
+Transferencia,Lic. Ramón Concepción,1,VEN-8927-hZb,PAGO-lnd-7594,2025-03-26,1445.0,Norte,1,PAGO-lnd-7594,100.0,True,PAGO-lnd-7594,PAGO,lnd
+Transferencia,Benito Zoé Pedraza,1,VEN-5233-ByR,PAGO-hjA-8107,2025-03-23,3244.36,Centro,1,PAGO-hjA-8107,100.0,True,PAGO-hjA-8107,PAGO,hjA
+Transferencia,Julia Salinas,1,VEN-7742-fWf,PAGO-RkV-2397,2025-03-23,3975.53,Norte,1,PAGO-RkV-2397,100.0,True,PAGO-RkV-2397,PAGO,RkV
+Transferencia,Marisol Ignacio Rivera,1,VEN-0219-KLM,PAGO-swi-0706,2025-04-03,435.94,Norte,1,PAGO-swi-0706,100.0,True,PAGO-swi-0706,PAGO,swi
+Transferencia,Roberto Gracia Bernal,1,VEN-7969-Abz,PAGO-Vdv-5766,2025-03-23,287.08,Centro,1,PAGO-Vdv-5766,100.0,True,PAGO-Vdv-5766,PAGO,Vdv
+Tarjeta,Alberto Alcántar Chávez,1,VEN-0790-Gmg,PAGO-JQo-2536,2025-03-14,1964.42,Sur,1,PAGO-JQo-2536,100.0,True,PAGO-JQo-2536,PAGO,JQo
+Transferencia,Amelia Altamirano,1,VEN-9233-Gas,PAGO-xLn-7657,2025-03-17,3995.06,Sur,1,PAGO-xLn-7657,100.0,True,PAGO-xLn-7657,PAGO,xLn
+Efectivo,Sonia Robles Orosco,1,VEN-6079-JrS,PAGO-Tfh-3539,2025-03-17,1489.21,Norte,1,PAGO-Tfh-3539,100.0,True,PAGO-Tfh-3539,PAGO,Tfh
+Transferencia,Eduardo María Teresa Meraz Enríquez,1,VEN-9874-btU,PAGO-Juk-8878,2025-03-27,1883.62,Sur,1,PAGO-Juk-8878,100.0,True,PAGO-Juk-8878,PAGO,Juk
+Tarjeta,Berta Aldo Carbajal Muñiz,1,VEN-3026-fdo,PAGO-JgV-2545,2025-03-26,1843.91,Centro,1,PAGO-JgV-2545,100.0,True,PAGO-JgV-2545,PAGO,JgV
+Tarjeta,Camilo Esperanza Mena,1,VEN-3589-wTB,PAGO-uvR-3296,2025-03-25,2380.31,Norte,1,PAGO-uvR-3296,100.0,True,PAGO-uvR-3296,PAGO,uvR
+Efectivo,Iván Brito Villalpando,1,VEN-1769-CQl,PAGO-vmz-5290,2025-04-01,2272.51,Centro,1,PAGO-vmz-5290,100.0,True,PAGO-vmz-5290,PAGO,vmz
+Tarjeta,Ing. Andrés de Jesús,1,VEN-3638-DtN,PAGO-Zxg-5550,2025-03-11,147.38,Centro,1,PAGO-Zxg-5550,100.0,True,PAGO-Zxg-5550,PAGO,Zxg
+Transferencia,Elvira Vicente Aguilar Alfaro,1,VEN-0388-NKH,PAGO-RgG-9734,2025-03-25,3993.29,Sur,1,PAGO-RgG-9734,100.0,True,PAGO-RgG-9734,PAGO,RgG
+Transferencia,José Carlos Burgos,1,VEN-1870-iqf,PAGO-KYE-6241,2025-03-22,4422.27,Norte,1,PAGO-KYE-6241,100.0,True,PAGO-KYE-6241,PAGO,KYE
+Tarjeta,Ing. Gabriel Adame,1,VEN-2937-AAP,PAGO-dAi-2159,2025-04-02,4821.15,Centro,1,PAGO-dAi-2159,100.0,True,PAGO-dAi-2159,PAGO,dAi
+Efectivo,Mónica Francisco Javier Maya,1,VEN-5346-lXn,PAGO-BHT-1151,2025-03-31,2580.95,Centro,1,PAGO-BHT-1151,100.0,True,PAGO-BHT-1151,PAGO,BHT
+Efectivo,Ing. Lucía Gamboa,1,VEN-8652-anp,PAGO-ftr-3849,2025-03-30,117.69,Centro,1,PAGO-ftr-3849,100.0,True,PAGO-ftr-3849,PAGO,ftr
+Efectivo,José Eduardo Benítez Lugo,1,VEN-7988-fpP,PAGO-Lpk-1857,2025-03-31,1124.88,Norte,1,,0.0,False,PAGO-Lpk-1857,,
+Transferencia,Gerardo Cedillo Hernández,1,VEN-4692-Hwj,PAGO-VTs-9831,2025-03-20,4895.87,Centro,1,PAGO-VTs-9831,100.0,True,PAGO-VTs-9831,PAGO,VTs
+Efectivo,Mtro. Nelly Sanches,1,VEN-6518-yer,PAGO-gtv-0689,2025-03-22,4518.5,Norte,1,PAGO-gtv-0689,100.0,True,PAGO-gtv-0689,PAGO,gtv
+Tarjeta,Mauro Socorro Carreón,1,VEN-9354-ZJe,PAGO-Gvi-9767,2025-03-28,2179.03,Centro,1,PAGO-Gvi-9767,100.0,True,PAGO-Gvi-9767,PAGO,Gvi
+Tarjeta,Ing. Alberto Salcedo,1,VEN-5400-PVa,PAGO-FPf-9797,2025-03-10,325.61,Sur,1,PAGO-FPf-9797,100.0,True,PAGO-FPf-9797,PAGO,FPf
+Transferencia,Bernardo Esperanza Segovia,1,VEN-4297-ZWw,PAGO-yqA-2437,2025-04-04,1292.1,Centro,1,PAGO-yqA-2437,100.0,True,PAGO-yqA-2437,PAGO,yqA
+Tarjeta,Serafín Lorena Mata Ocasio,1,VEN-3248-ykg,PAGO-ZTt-9865,2025-03-25,3250.22,Centro,1,,0.0,False,PAGO-ZTt-9865,,
+Efectivo,Julio Cecilia Quiñones,1,VEN-7102-IqD,PAGO-bSJ-5674,2025-04-03,4474.45,Sur,1,PAGO-bSJ-5674,100.0,True,PAGO-bSJ-5674,PAGO,bSJ
+Tarjeta,Nicolás Granado,1,VEN-5390-hfV,PAGO-FSm-2283,2025-03-17,422.35,Sur,1,PAGO-FSm-2283,100.0,True,PAGO-FSm-2283,PAGO,FSm
+Transferencia,Eloy Caldera Mascareñas,1,VEN-0777-Ggz,PAGO-lao-0353,2025-03-15,1053.77,Centro,1,,0.0,False,PAGO-lao-0353,,
+Transferencia,Fidel Galindo,1,VEN-5475-lwd,PAGO-xbL-9728,2025-03-13,1967.95,Centro,1,PAGO-xbL-9728,100.0,True,PAGO-xbL-9728,PAGO,xbL
+Tarjeta,Lic. Hilda Batista,1,VEN-0682-Hvg,PAGO-Eyi-5438,2025-04-03,2728.37,Sur,1,PAGO-Eyi-5438,100.0,True,PAGO-Eyi-5438,PAGO,Eyi
+Tarjeta,Lic. Agustín Collado,1,VEN-6965-rWe,PAGO-QbW-7330,2025-03-18,4458.65,Norte,1,PAGO-QbW-7330,100.0,True,PAGO-QbW-7330,PAGO,QbW
+Tarjeta,Noelia Lebrón,1,VEN-4205-LAo,PAGO-tnL-1540,2025-03-19,4043.05,Sur,1,PAGO-tnL-1540,100.0,True,PAGO-tnL-1540,PAGO,tnL
+Tarjeta,Ing. Abril Díaz,1,VEN-2020-gPE,PAGO-ogg-6890,2025-03-22,678.74,Centro,1,,0.0,False,PAGO-ogg-6890,,
+Transferencia,Silvia Marisela Salcido Benavides,1,VEN-4655-SPr,PAGO-UmP-9473,2025-03-19,1506.95,Norte,1,PAGO-UmP-9473,100.0,True,PAGO-UmP-9473,PAGO,UmP
+Tarjeta,Ing. Teodoro Pulido,1,VEN-7925-qcI,PAGO-CRH-0855,2025-03-25,1636.94,Sur,1,PAGO-CRH-0855,100.0,True,PAGO-CRH-0855,PAGO,CRH
+Efectivo,Yeni José Eduardo Bustos Blanco,1,VEN-5563-zRe,PAGO-vKE-1703,2025-03-20,3690.36,Sur,1,PAGO-vKE-1703,100.0,True,PAGO-vKE-1703,PAGO,vKE
+Efectivo,Julia Ramiro Muñiz,1,VEN-9928-Clb,PAGO-WDn-3570,2025-03-25,3936.65,Sur,1,PAGO-WDn-3570,100.0,True,PAGO-WDn-3570,PAGO,WDn
+Efectivo,Jonás Almaraz Lebrón,1,VEN-4405-RlK,PAGO-xov-0289,2025-03-12,3176.98,Norte,1,PAGO-xov-0289,100.0,True,PAGO-xov-0289,PAGO,xov
+Efectivo,Alicia Magdalena Alcántar,1,VEN-3379-AfI,PAGO-tMa-0010,2025-04-03,1067.66,Sur,1,PAGO-tMa-0010,100.0,True,PAGO-tMa-0010,PAGO,tMa
+Tarjeta,Rebeca Ruiz,1,VEN-9985-UKz,PAGO-vAY-2644,2025-03-19,742.49,Norte,1,PAGO-vAY-2644,100.0,True,PAGO-vAY-2644,PAGO,vAY
+Efectivo,Estela Teodoro Rivas Anaya,1,VEN-3227-faY,PAGO-FZh-6520,2025-04-03,147.87,Centro,1,PAGO-FZh-6520,100.0,True,PAGO-FZh-6520,PAGO,FZh
+Tarjeta,Jacobo Pamela Ybarra Castañeda,1,VEN-7389-ftl,PAGO-rrV-8049,2025-03-15,3845.35,Centro,1,,0.0,False,PAGO-rrV-8049,,
+Tarjeta,Dr. Caridad Borrego,1,VEN-3316-YMM,PAGO-SfP-4736,2025-04-06,1742.78,Norte,1,PAGO-SfP-4736,100.0,True,PAGO-SfP-4736,PAGO,SfP
+Tarjeta,Francisco Calderón Vargas,1,VEN-5479-gej,PAGO-Lqf-7742,2025-04-02,4774.54,Centro,1,PAGO-Lqf-7742,100.0,True,PAGO-Lqf-7742,PAGO,Lqf
+Transferencia,Lic. Zoé Ríos,1,VEN-8528-rQO,PAGO-BMU-8858,2025-04-05,1037.08,Centro,1,PAGO-BMU-8858,100.0,True,PAGO-BMU-8858,PAGO,BMU
+Efectivo,Luisa Valdivia Saldaña,1,VEN-7630-KnM,PAGO-GCS-5724,2025-03-10,2586.44,Sur,1,PAGO-GCS-5724,100.0,True,PAGO-GCS-5724,PAGO,GCS
+Transferencia,Adriana José Tapia Solorio,1,VEN-5448-DbX,PAGO-Vsz-7767,2025-03-20,106.28,Centro,1,PAGO-Vsz-7767,100.0,True,PAGO-Vsz-7767,PAGO,Vsz
+Efectivo,Augusto Llamas Hurtado,1,VEN-0248-Huo,PAGO-vtV-7183,2025-03-20,4750.09,Centro,1,,0.0,False,PAGO-vtV-7183,,
+Efectivo,Mtro. Débora Rodrígez,1,VEN-0258-neT,PAGO-Hur-9752,2025-03-21,3472.71,Centro,1,PAGO-Hur-9752,100.0,True,PAGO-Hur-9752,PAGO,Hur
+Transferencia,Verónica Soledad Rosado,1,VEN-7593-NEo,PAGO-ear-9893,2025-03-13,3470.78,Norte,1,PAGO-ear-9893,100.0,True,PAGO-ear-9893,PAGO,ear
+Efectivo,Eloisa Rodríquez Lozada,1,VEN-1761-eiH,PAGO-ydB-7626,2025-03-30,1603.79,Norte,1,PAGO-ydB-7626,100.0,True,PAGO-ydB-7626,PAGO,ydB
+Tarjeta,Berta Soledad Domínguez,1,VEN-9682-cCq,PAGO-ipD-3270,2025-03-28,1504.98,Sur,1,PAGO-ipD-3270,100.0,True,PAGO-ipD-3270,PAGO,ipD
+Tarjeta,Carlos Carmen Segura,1,VEN-7162-Ndq,PAGO-KyX-2423,2025-03-24,3111.99,Sur,1,PAGO-KyX-2423,100.0,True,PAGO-KyX-2423,PAGO,KyX
+Transferencia,Cristobal Brito,1,VEN-2939-Qkf,PAGO-HSv-0418,2025-03-11,1848.2,Sur,1,PAGO-HSv-0418,100.0,True,PAGO-HSv-0418,PAGO,HSv
+Transferencia,Yuridia María Luisa Gaitán Aguilera,1,VEN-7404-rOc,PAGO-pKp-1866,2025-03-24,2398.89,Sur,1,PAGO-pKp-1866,100.0,True,PAGO-pKp-1866,PAGO,pKp
+Tarjeta,Diego Galván,1,VEN-0588-DaU,PAGO-yBF-3433,2025-03-24,635.07,Norte,1,PAGO-yBF-3433,100.0,True,PAGO-yBF-3433,PAGO,yBF
+Efectivo,Catalina Jesús Briseño,1,VEN-6396-Njp,PAGO-YkM-7809,2025-03-28,2023.68,Sur,1,,0.0,False,PAGO-YkM-7809,,
+Transferencia,Rocío Espino,1,VEN-5028-jvo,PAGO-XHd-4370,2025-04-05,319.14,Centro,1,PAGO-XHd-4370,100.0,True,PAGO-XHd-4370,PAGO,XHd
+Transferencia,Francisca Bétancourt,1,VEN-5536-uWN,PAGO-AJb-9060,2025-03-26,4638.87,Sur,1,,0.0,False,PAGO-AJb-9060,,
+Transferencia,Ilse Gilberto Godoy Navarro,1,VEN-8295-FpO,PAGO-DUz-2567,2025-03-14,4045.73,Centro,1,PAGO-DUz-2567,100.0,True,PAGO-DUz-2567,PAGO,DUz
+Transferencia,Alonso Colunga Salcido,1,VEN-7872-VGy,PAGO-eox-9862,2025-03-20,1679.45,Centro,1,PAGO-eox-9862,100.0,True,PAGO-eox-9862,PAGO,eox
+Efectivo,Horacio Varela,1,VEN-6056-ocp,PAGO-peQ-3429,2025-04-02,3793.29,Sur,1,PAGO-peQ-3429,100.0,True,PAGO-peQ-3429,PAGO,peQ
+Efectivo,Lic. Bernabé Terán,1,VEN-7314-PYu,PAGO-WxU-3247,2025-03-27,4449.54,Norte,1,PAGO-WxU-3247,100.0,True,PAGO-WxU-3247,PAGO,WxU
+Transferencia,Gloria Sarabia Vigil,1,VEN-5945-zwF,PAGO-iVw-0803,2025-04-04,563.31,Centro,1,PAGO-iVw-0803,100.0,True,PAGO-iVw-0803,PAGO,iVw
+Transferencia,Mónica Briones,1,VEN-6653-KPs,PAGO-RLg-6670,2025-03-23,356.34,Norte,1,PAGO-RLg-6670,100.0,True,PAGO-RLg-6670,PAGO,RLg
+Tarjeta,Alfonso Cristina Negrete,1,VEN-6961-lrV,PAGO-AZk-6714,2025-03-11,1174.65,Norte,1,,0.0,False,PAGO-AZk-6714,,
+Transferencia,Gerónimo Santiago Ramírez Carvajal,1,VEN-4007-RMX,PAGO-mxN-6913,2025-03-24,4334.26,Norte,1,PAGO-mxN-6913,100.0,True,PAGO-mxN-6913,PAGO,mxN
+Tarjeta,Sr(a). Hugo Guevara,1,VEN-4269-kNC,PAGO-Sqa-1400,2025-04-07,468.66,Norte,1,PAGO-Sqa-1400,100.0,True,PAGO-Sqa-1400,PAGO,Sqa
+Efectivo,Irene Florencia Carrasco,1,VEN-7537-iGk,PAGO-GhP-1238,2025-04-04,1592.32,Centro,1,,0.0,False,PAGO-GhP-1238,,
+Transferencia,Cornelio Magaña Almanza,1,VEN-4535-wzO,PAGO-Gok-2348,2025-03-30,797.91,Centro,1,PAGO-Gok-2348,100.0,True,PAGO-Gok-2348,PAGO,Gok
+Tarjeta,Dr. Mariano Sáenz,1,VEN-9026-wYf,PAGO-XJO-4337,2025-03-14,3010.63,Centro,1,PAGO-XJO-4337,100.0,True,PAGO-XJO-4337,PAGO,XJO
+Efectivo,Pascual Escobar Tejeda,1,VEN-1323-Luv,PAGO-VmE-1375,2025-03-26,2028.43,Sur,1,PAGO-VmE-1375,100.0,True,PAGO-VmE-1375,PAGO,VmE
+Transferencia,Amanda Ramón Gurule Acosta,1,VEN-0172-dDO,PAGO-YDI-8033,2025-03-25,2409.23,Norte,1,PAGO-YDI-8033,100.0,True,PAGO-YDI-8033,PAGO,YDI
+Transferencia,Salvador Monroy Pacheco,1,VEN-5401-lnh,PAGO-Kgf-4588,2025-03-13,1865.37,Centro,1,PAGO-Kgf-4588,100.0,True,PAGO-Kgf-4588,PAGO,Kgf
+Efectivo,Genaro Sandoval,1,VEN-3709-ahk,PAGO-Fhi-4383,2025-03-17,3547.5,Centro,1,PAGO-Fhi-4383,100.0,True,PAGO-Fhi-4383,PAGO,Fhi
+Transferencia,Sr(a). Leticia Montenegro,1,VEN-3993-xWU,PAGO-lBC-9250,2025-03-12,2342.11,Sur,1,,0.0,False,PAGO-lBC-9250,,
+Efectivo,Jerónimo Jorge Luis Nevárez,1,VEN-7062-aYf,PAGO-LXe-5968,2025-03-15,1198.89,Sur,1,PAGO-LXe-5968,100.0,True,PAGO-LXe-5968,PAGO,LXe
+Efectivo,Ruby Alemán Archuleta,1,VEN-6346-SmZ,PAGO-wQj-7732,2025-03-15,3106.51,Centro,1,,0.0,False,PAGO-wQj-7732,,
+Transferencia,Barbara Clemente Loya,1,VEN-5779-Ovu,PAGO-gbM-9110,2025-04-03,1428.49,Centro,1,,0.0,False,PAGO-gbM-9110,,
+Transferencia,Silvia Adalberto Montemayor Moya,1,VEN-7332-jlg,PAGO-EGH-3139,2025-04-03,2304.52,Sur,1,PAGO-EGH-3139,100.0,True,PAGO-EGH-3139,PAGO,EGH
+Transferencia,Sessa Nadia Olivera Lomeli,1,VEN-5336-fxz,PAGO-Zoo-5171,2025-04-04,2472.91,Sur,1,PAGO-Zoo-5171,100.0,True,PAGO-Zoo-5171,PAGO,Zoo
+Efectivo,Sr(a). Humberto Amaya,1,VEN-3011-JHG,PAGO-DhJ-2584,2025-04-05,2518.95,Sur,1,,0.0,False,PAGO-DhJ-2584,,
+Efectivo,Mtro. Ángela Moreno,1,VEN-3846-rNL,PAGO-Aag-1434,2025-04-04,3665.38,Sur,1,PAGO-Aag-1434,100.0,True,PAGO-Aag-1434,PAGO,Aag
+Transferencia,Mtro. Clara Mayorga,1,VEN-2686-nry,PAGO-xJU-7724,2025-03-26,3300.22,Norte,1,,0.0,False,PAGO-xJU-7724,,
+Transferencia,Renato Trinidad Hernádez Borrego,1,VEN-2992-rhP,PAGO-mIv-9963,2025-04-04,1227.03,Sur,1,PAGO-mIv-9963,100.0,True,PAGO-mIv-9963,PAGO,mIv
+Tarjeta,Minerva Amalia Jimínez,1,VEN-9994-SAA,PAGO-ayO-1712,2025-03-27,4671.02,Norte,1,PAGO-ayO-1712,100.0,True,PAGO-ayO-1712,PAGO,ayO
+Transferencia,Cristian Ramón Partida Alvarez,1,VEN-4312-Zvq,PAGO-AjW-5275,2025-03-15,102.32,Norte,1,PAGO-AjW-5275,100.0,True,PAGO-AjW-5275,PAGO,AjW
+Tarjeta,Alvaro Zambrano,1,VEN-8569-cYE,PAGO-RuK-2269,2025-03-24,3159.41,Sur,1,PAGO-RuK-2269,100.0,True,PAGO-RuK-2269,PAGO,RuK
+Tarjeta,Helena Agustín Vásquez Palacios,1,VEN-0734-PhL,PAGO-BnY-5779,2025-03-31,1873.08,Norte,1,PAGO-BnY-5779,100.0,True,PAGO-BnY-5779,PAGO,BnY
+Efectivo,Fabiola Villegas,1,VEN-0428-OmU,PAGO-Wtt-9627,2025-04-07,1816.5,Sur,1,PAGO-Wtt-9627,100.0,True,PAGO-Wtt-9627,PAGO,Wtt
+Efectivo,Silvia María Luisa Cintrón Cabrera,1,VEN-6574-gcb,PAGO-Dyq-7663,2025-03-12,4307.44,Sur,1,PAGO-Dyq-7663,100.0,True,PAGO-Dyq-7663,PAGO,Dyq
+Tarjeta,Abigail Miguel Ángel Zapata Bustamante,1,VEN-9098-McV,PAGO-kCk-1719,2025-03-14,2793.2,Sur,1,PAGO-kCk-1719,100.0,True,PAGO-kCk-1719,PAGO,kCk
+Transferencia,Ivonne Olga Urrutia,1,VEN-4483-uZy,PAGO-ieE-2884,2025-04-04,408.43,Centro,1,,0.0,False,PAGO-ieE-2884,,
+Tarjeta,Gabino Benito Henríquez,1,VEN-1064-zcU,PAGO-UFA-7901,2025-03-15,1180.56,Centro,1,PAGO-UFA-7901,100.0,True,PAGO-UFA-7901,PAGO,UFA
+Transferencia,Rafaél Emilio Soliz Holguín,1,VEN-2076-iMi,PAGO-nlW-5237,2025-03-17,404.62,Sur,1,PAGO-nlW-5237,100.0,True,PAGO-nlW-5237,PAGO,nlW
+Tarjeta,Rubén Linda Rico,1,VEN-8551-aeb,PAGO-Twh-1611,2025-03-09,3814.04,Sur,1,PAGO-Twh-1611,100.0,True,PAGO-Twh-1611,PAGO,Twh
+Tarjeta,Ing. Daniel Vega,1,VEN-8577-MqC,PAGO-hZc-3161,2025-04-07,1587.38,Norte,1,PAGO-hZc-3161,100.0,True,PAGO-hZc-3161,PAGO,hZc
+Tarjeta,Ángel Antonio Rivero,1,VEN-5869-ZBC,PAGO-OTl-3549,2025-03-30,747.39,Sur,1,,0.0,False,PAGO-OTl-3549,,
+Transferencia,Lilia Ozuna,1,VEN-9125-nmi,PAGO-nJv-7118,2025-03-26,1352.3,Centro,1,,0.0,False,PAGO-nJv-7118,,
+Transferencia,Ing. Caridad Alba,1,VEN-4341-lGi,PAGO-fSj-4391,2025-04-07,2641.92,Centro,1,PAGO-fSj-4391,100.0,True,PAGO-fSj-4391,PAGO,fSj
+Efectivo,Jaqueline Luisa Puente Ocasio,1,VEN-0858-VQA,PAGO-Xcl-0044,2025-03-28,809.45,Sur,1,PAGO-Xcl-0044,100.0,True,PAGO-Xcl-0044,PAGO,Xcl
+Tarjeta,Santiago Bruno Aponte,1,VEN-6166-vqo,PAGO-YaX-7501,2025-03-22,2453.15,Norte,1,,0.0,False,PAGO-YaX-7501,,
+Tarjeta,Antonia Tamayo Noriega,1,VEN-1765-Fps,PAGO-MXZ-2668,2025-04-07,1965.92,Sur,1,PAGO-MXZ-2668,100.0,True,PAGO-MXZ-2668,PAGO,MXZ
+Transferencia,Isabel Toro de la Rosa,1,VEN-4946-jOZ,PAGO-xVh-0971,2025-03-25,1303.79,Norte,1,PAGO-xVh-0971,100.0,True,PAGO-xVh-0971,PAGO,xVh
+Transferencia,Dr. Rufino Guerra,1,VEN-5113-urN,PAGO-Dfs-8593,2025-03-14,822.61,Norte,1,PAGO-Dfs-8593,100.0,True,PAGO-Dfs-8593,PAGO,Dfs
+Tarjeta,Marcos Nava,1,VEN-1498-xHr,PAGO-WLy-4728,2025-03-20,4120.08,Sur,1,,0.0,False,PAGO-WLy-4728,,
+Transferencia,Mtro. Ana Luisa Salazar,1,VEN-8762-zjS,PAGO-Hdj-5652,2025-03-11,463.71,Sur,1,,0.0,False,PAGO-Hdj-5652,,
+Tarjeta,Norma Francisco Javier Lozano,1,VEN-1617-HaE,PAGO-MYg-3466,2025-03-19,3628.61,Norte,1,PAGO-MYg-3466,100.0,True,PAGO-MYg-3466,PAGO,MYg
+Transferencia,Esperanza José Manuél Marín,1,VEN-0346-ouR,PAGO-ANb-9771,2025-03-31,3098.51,Norte,1,PAGO-ANb-9771,100.0,True,PAGO-ANb-9771,PAGO,ANb
+Tarjeta,Ing. Claudia Niño,1,VEN-0623-jGa,PAGO-oql-5729,2025-03-29,935.42,Centro,1,PAGO-oql-5729,100.0,True,PAGO-oql-5729,PAGO,oql
+Transferencia,Arcelia Frías,1,VEN-3783-gTH,PAGO-Qlh-8925,2025-03-25,1058.44,Sur,1,,0.0,False,PAGO-Qlh-8925,,
+Tarjeta,Elisa Bustamante Ledesma,1,VEN-3639-rrW,PAGO-aWB-5236,2025-03-10,3749.92,Sur,1,,0.0,False,PAGO-aWB-5236,,
+Transferencia,Julia Antonia Rentería Hernandes,1,VEN-7230-AAw,PAGO-piJ-5358,2025-04-06,3671.8,Sur,1,PAGO-piJ-5358,100.0,True,PAGO-piJ-5358,PAGO,piJ
+Transferencia,Alta  Gracia López Villarreal,1,VEN-0091-WmP,PAGO-Kiq-2216,2025-03-10,1618.69,Sur,1,PAGO-Kiq-2216,100.0,True,PAGO-Kiq-2216,PAGO,Kiq
+Transferencia,Citlali Raya,1,VEN-0480-ccU,PAGO-fnv-5954,2025-03-21,4056.77,Norte,1,PAGO-fnv-5954,100.0,True,PAGO-fnv-5954,PAGO,fnv
+Tarjeta,Ing. Bianca Sauceda,1,VEN-0310-afk,PAGO-xQg-3565,2025-03-12,3745.59,Norte,1,PAGO-xQg-3565,100.0,True,PAGO-xQg-3565,PAGO,xQg
+Transferencia,Irene Ruby Guerrero Abrego,1,VEN-0031-dgJ,PAGO-iPJ-3787,2025-03-22,1289.78,Norte,1,,0.0,False,PAGO-iPJ-3787,,
+Efectivo,Ing. Zoé Montañez,1,VEN-5564-WtL,PAGO-yyW-1990,2025-04-05,4610.16,Sur,1,PAGO-yyW-1990,100.0,True,PAGO-yyW-1990,PAGO,yyW
+Tarjeta,Jos Echeverría,1,VEN-3348-wrs,PAGO-ezH-5236,2025-04-03,451.52,Norte,1,PAGO-ezH-5236,100.0,True,PAGO-ezH-5236,PAGO,ezH
+Efectivo,Inés Jasso,1,VEN-1112-hib,PAGO-Ias-7809,2025-03-21,1879.01,Norte,1,PAGO-Ias-7809,100.0,True,PAGO-Ias-7809,PAGO,Ias
+Transferencia,Mtro. Bernardo Nieves,1,VEN-2143-sbR,PAGO-vGj-7183,2025-03-25,158.73,Centro,1,PAGO-vGj-7183,100.0,True,PAGO-vGj-7183,PAGO,vGj
+Transferencia,Úrsula Melgar Sisneros,1,VEN-9111-FDo,PAGO-DIZ-8782,2025-03-18,164.97,Norte,1,PAGO-DIZ-8782,100.0,True,PAGO-DIZ-8782,PAGO,DIZ
+Efectivo,Ing. Eugenia Iglesias,1,VEN-7907-dLt,PAGO-DMe-1083,2025-03-27,1110.3,Norte,1,PAGO-DMe-1083,100.0,True,PAGO-DMe-1083,PAGO,DMe
+Transferencia,José Eduardo de la O Mireles,1,VEN-3751-xkw,PAGO-cBJ-8250,2025-03-19,3176.48,Centro,1,PAGO-cBJ-8250,100.0,True,PAGO-cBJ-8250,PAGO,cBJ
+Efectivo,Fidel Claudia Segovia Nieves,1,VEN-3123-JbL,PAGO-WcH-4324,2025-03-25,4676.33,Sur,1,PAGO-WcH-4324,100.0,True,PAGO-WcH-4324,PAGO,WcH
+Tarjeta,Jesús Octavio Posada,1,VEN-7712-Qil,PAGO-GaK-2280,2025-04-04,298.78,Norte,1,PAGO-GaK-2280,100.0,True,PAGO-GaK-2280,PAGO,GaK
+Transferencia,Adela Espartaco Casárez Galván,1,VEN-4749-jNM,PAGO-ZmF-3336,2025-04-02,3842.13,Centro,1,PAGO-ZmF-3336,100.0,True,PAGO-ZmF-3336,PAGO,ZmF
+Efectivo,Virginia Saldivar,1,VEN-7641-Yul,PAGO-VBd-0356,2025-03-19,4565.34,Sur,1,PAGO-VBd-0356,100.0,True,PAGO-VBd-0356,PAGO,VBd
+Transferencia,María Elena Úrsula Ozuna,1,VEN-9729-SJh,PAGO-dBO-8871,2025-03-19,3918.94,Norte,1,,0.0,False,PAGO-dBO-8871,,
+Tarjeta,Alonso Oquendo Yáñez,1,VEN-7703-dMq,PAGO-bBq-4756,2025-03-19,1940.57,Sur,1,PAGO-bBq-4756,100.0,True,PAGO-bBq-4756,PAGO,bBq
+Tarjeta,Ing. Guadalupe Sáenz,1,VEN-9453-mPZ,PAGO-yDl-2957,2025-04-07,2506.14,Norte,1,PAGO-yDl-2957,100.0,True,PAGO-yDl-2957,PAGO,yDl
+Efectivo,Ing. Leonor Sepúlveda,1,VEN-6619-stc,PAGO-yiw-1232,2025-03-26,3221.89,Norte,1,PAGO-yiw-1232,100.0,True,PAGO-yiw-1232,PAGO,yiw
+Efectivo,Nelly Muro Carrasco,1,VEN-5108-dHa,PAGO-BwF-1726,2025-04-06,4313.27,Norte,1,PAGO-BwF-1726,100.0,True,PAGO-BwF-1726,PAGO,BwF
+Efectivo,Beatriz Menéndez,1,VEN-1688-MTD,PAGO-mBx-5977,2025-04-06,1867.52,Sur,1,PAGO-mBx-5977,100.0,True,PAGO-mBx-5977,PAGO,mBx
+Tarjeta,Humberto Márquez Razo,1,VEN-2823-nlH,PAGO-CIw-5621,2025-04-03,1993.67,Norte,1,,0.0,False,PAGO-CIw-5621,,
+Transferencia,Trinidad Haro Orta,1,VEN-9615-Vsn,PAGO-LGA-8668,2025-03-29,1754.01,Norte,1,PAGO-LGA-8668,100.0,True,PAGO-LGA-8668,PAGO,LGA
+Efectivo,Georgina Lozano Maldonado,1,VEN-7103-AgJ,PAGO-itO-7574,2025-03-27,3454.16,Norte,1,PAGO-itO-7574,100.0,True,PAGO-itO-7574,PAGO,itO
+Efectivo,Ing. Amador Orta,1,VEN-9241-Com,PAGO-tic-1109,2025-03-29,2552.46,Sur,1,,0.0,False,PAGO-tic-1109,,
+Transferencia,Dr. Inés Gálvez,1,VEN-6854-Gpa,PAGO-EcR-6385,2025-03-11,4882.33,Norte,1,PAGO-EcR-6385,100.0,True,PAGO-EcR-6385,PAGO,EcR
+Transferencia,Sr(a). Humberto Pineda,1,VEN-5965-uNJ,PAGO-Ivl-2421,2025-03-14,631.94,Norte,1,PAGO-Ivl-2421,100.0,True,PAGO-Ivl-2421,PAGO,Ivl
+Efectivo,Agustín Patiño Carranza,1,VEN-8220-pgj,PAGO-pXQ-2392,2025-03-24,2784.65,Norte,1,,0.0,False,PAGO-pXQ-2392,,
+Transferencia,Lorenzo Modesto Sáenz Archuleta,1,VEN-0445-JPl,PAGO-EYc-0524,2025-03-29,339.21,Centro,1,PAGO-EYc-0524,100.0,True,PAGO-EYc-0524,PAGO,EYc
+Tarjeta,Víctor Mauricio Limón,1,VEN-3244-fDy,PAGO-AAv-1511,2025-03-09,3902.59,Sur,1,PAGO-AAv-1511,100.0,True,PAGO-AAv-1511,PAGO,AAv
+Tarjeta,Guillermina Felix Pelayo,1,VEN-1794-QdE,PAGO-sDw-9743,2025-03-29,4904.88,Centro,1,PAGO-sDw-9743,100.0,True,PAGO-sDw-9743,PAGO,sDw
+Transferencia,Guillermina Gerónimo Ríos Berríos,1,VEN-3953-inl,PAGO-qXO-8874,2025-03-30,3809.03,Norte,1,PAGO-qXO-8874,100.0,True,PAGO-qXO-8874,PAGO,qXO
+Tarjeta,Luis Manuel Elena Cervantes Ponce,1,VEN-2625-UQn,PAGO-IFx-5001,2025-03-11,1298.44,Norte,1,PAGO-IFx-5001,100.0,True,PAGO-IFx-5001,PAGO,IFx
+Tarjeta,Verónica Minerva Badillo Rentería,1,VEN-3263-FmV,PAGO-Bdc-1011,2025-03-10,1322.33,Sur,1,,0.0,False,PAGO-Bdc-1011,,
+Transferencia,Elena Casas,1,VEN-7818-rCj,PAGO-WxS-7970,2025-04-02,1923.26,Sur,1,PAGO-WxS-7970,100.0,True,PAGO-WxS-7970,PAGO,WxS
+Tarjeta,Ilse Arias Lira,1,VEN-4290-vkx,PAGO-zla-1505,2025-03-18,1621.79,Centro,1,,0.0,False,PAGO-zla-1505,,
+Efectivo,Carla Ponce Acevedo,1,VEN-6493-RKg,PAGO-nZg-3466,2025-03-24,428.55,Sur,1,,0.0,False,PAGO-nZg-3466,,
+Efectivo,Renato Emilio Alonzo Treviño,1,VEN-4150-moZ,PAGO-NQK-7788,2025-03-10,4224.59,Norte,1,PAGO-NQK-7788,100.0,True,PAGO-NQK-7788,PAGO,NQK
+Efectivo,Wendolin Diego Moreno Ávila,1,VEN-9659-rTV,PAGO-zSu-9503,2025-04-05,4742.27,Norte,1,PAGO-zSu-9503,100.0,True,PAGO-zSu-9503,PAGO,zSu
+Transferencia,Arcelia Luz Altamirano Meraz,1,VEN-3660-jMa,PAGO-VXG-9000,2025-03-27,2323.49,Centro,1,PAGO-VXG-9000,100.0,True,PAGO-VXG-9000,PAGO,VXG
+Tarjeta,Israel María del Carmen Ponce,1,VEN-5429-yML,PAGO-kQF-4692,2025-03-30,3550.68,Norte,1,PAGO-kQF-4692,100.0,True,PAGO-kQF-4692,PAGO,kQF
+Efectivo,Ing. Germán Barela,1,VEN-4269-ghv,PAGO-rIg-6514,2025-03-18,1327.64,Norte,1,PAGO-rIg-6514,100.0,True,PAGO-rIg-6514,PAGO,rIg
+Efectivo,Dr. Enrique de la Crúz,1,VEN-1594-wgR,PAGO-ykg-1293,2025-03-21,4967.14,Sur,1,PAGO-ykg-1293,100.0,True,PAGO-ykg-1293,PAGO,ykg
+Tarjeta,Ana Yolanda Medina Carbajal,1,VEN-7894-Pfb,PAGO-CRC-4051,2025-03-24,4867.47,Norte,1,,0.0,False,PAGO-CRC-4051,,
+Tarjeta,Mtro. Dolores Jaramillo,1,VEN-0097-zbn,PAGO-FeJ-6402,2025-04-03,4883.1,Centro,1,PAGO-FeJ-6402,100.0,True,PAGO-FeJ-6402,PAGO,FeJ
+Tarjeta,Eduardo Avilés,1,VEN-2513-QPq,PAGO-xnz-7673,2025-03-09,1976.48,Norte,1,PAGO-xnz-7673,100.0,True,PAGO-xnz-7673,PAGO,xnz
+Transferencia,Rafaél Diego Fuentes Rojo,1,VEN-2830-wiy,PAGO-EkK-5395,2025-03-22,4129.11,Norte,1,,0.0,False,PAGO-EkK-5395,,
+Tarjeta,Mercedes Elvia Zelaya,1,VEN-4921-dKE,PAGO-mBQ-1081,2025-03-19,1646.09,Centro,1,PAGO-mBQ-1081,100.0,True,PAGO-mBQ-1081,PAGO,mBQ
+Transferencia,Minerva Santacruz Salas,1,VEN-9147-MSt,PAGO-JKX-7777,2025-03-16,3469.21,Norte,1,PAGO-JKX-7777,100.0,True,PAGO-JKX-7777,PAGO,JKX
+Efectivo,Jacobo Alejandro,1,VEN-0249-CBy,PAGO-sQG-4067,2025-03-12,3228.85,Sur,1,PAGO-sQG-4067,100.0,True,PAGO-sQG-4067,PAGO,sQG
+Tarjeta,Sessa de la Rosa,1,VEN-0082-zLe,PAGO-wlC-9535,2025-03-13,3594.51,Sur,1,PAGO-wlC-9535,100.0,True,PAGO-wlC-9535,PAGO,wlC
+Tarjeta,Graciela José Luis Aranda,1,VEN-5478-umf,PAGO-PTh-6571,2025-03-11,4448.91,Norte,1,PAGO-PTh-6571,100.0,True,PAGO-PTh-6571,PAGO,PTh
+Efectivo,Alta  Gracia Peralta Cintrón,1,VEN-3298-Uml,PAGO-UOK-8473,2025-03-18,3320.87,Centro,1,,0.0,False,PAGO-UOK-8473,,
+Tarjeta,César Humberto Santiago Covarrubias,1,VEN-1921-MkN,PAGO-HsY-5791,2025-04-03,4444.81,Centro,1,PAGO-HsY-5791,100.0,True,PAGO-HsY-5791,PAGO,HsY
+Transferencia,Horacio Berríos,1,VEN-0185-IJJ,PAGO-RYE-2531,2025-03-25,2604.0,Centro,1,PAGO-RYE-2531,100.0,True,PAGO-RYE-2531,PAGO,RYE
+Efectivo,Esparta Ruby Parra Alonzo,1,VEN-3376-jmN,PAGO-lMI-5496,2025-03-17,1530.43,Centro,1,PAGO-lMI-5496,100.0,True,PAGO-lMI-5496,PAGO,lMI
+Tarjeta,Jaqueline Mateo Estévez,1,VEN-5560-GrJ,PAGO-HFd-9483,2025-03-15,4466.79,Sur,1,PAGO-HFd-9483,100.0,True,PAGO-HFd-9483,PAGO,HFd
+Efectivo,Alonso Molina Rendón,1,VEN-8213-muY,PAGO-NPx-2379,2025-03-22,600.02,Sur,1,PAGO-NPx-2379,100.0,True,PAGO-NPx-2379,PAGO,NPx
+Tarjeta,Rocío Teodoro Villegas,1,VEN-5111-Vhb,PAGO-UGI-9652,2025-03-30,3685.37,Centro,1,PAGO-UGI-9652,100.0,True,PAGO-UGI-9652,PAGO,UGI
+Tarjeta,Ricardo Miriam Tijerina Quintanilla,1,VEN-9351-jQq,PAGO-Ama-7179,2025-04-03,3506.22,Centro,1,PAGO-Ama-7179,100.0,True,PAGO-Ama-7179,PAGO,Ama
+Tarjeta,Úrsula Omar Almaraz Juárez,1,VEN-9363-zxn,PAGO-LhT-4085,2025-03-20,2610.95,Sur,1,PAGO-LhT-4085,100.0,True,PAGO-LhT-4085,PAGO,LhT
+Transferencia,Amelia Elizondo,1,VEN-4571-LGC,PAGO-yFv-3414,2025-03-19,3935.56,Sur,1,,0.0,False,PAGO-yFv-3414,,
+Efectivo,José Carlos Ceballos,1,VEN-9419-nsY,PAGO-Dhn-8615,2025-03-22,1499.67,Norte,1,PAGO-Dhn-8615,100.0,True,PAGO-Dhn-8615,PAGO,Dhn
+Transferencia,Caridad Elvia Villa,1,VEN-2349-ehn,PAGO-DVi-4972,2025-04-05,4637.99,Norte,1,PAGO-DVi-4972,100.0,True,PAGO-DVi-4972,PAGO,DVi
+Transferencia,María del Carmen de la Crúz,1,VEN-3669-WtZ,PAGO-abm-3735,2025-03-20,1162.27,Sur,1,PAGO-abm-3735,100.0,True,PAGO-abm-3735,PAGO,abm
+Efectivo,Reynaldo Regalado Aparicio,1,VEN-1283-dFa,PAGO-VmZ-9645,2025-03-16,4104.62,Centro,1,PAGO-VmZ-9645,100.0,True,PAGO-VmZ-9645,PAGO,VmZ
+Efectivo,Mtro. Aldo Olivares,1,VEN-1751-fxC,PAGO-MVQ-0232,2025-03-11,3125.7,Norte,1,PAGO-MVQ-0232,100.0,True,PAGO-MVQ-0232,PAGO,MVQ
+Tarjeta,Martín Georgina Garibay Valladares,1,VEN-4578-MwK,PAGO-YLM-0652,2025-03-23,846.44,Sur,1,PAGO-YLM-0652,100.0,True,PAGO-YLM-0652,PAGO,YLM
+Tarjeta,Lourdes Suárez,1,VEN-8261-xXK,PAGO-NrM-5234,2025-04-04,2345.56,Norte,1,PAGO-NrM-5234,100.0,True,PAGO-NrM-5234,PAGO,NrM
+Efectivo,Lic. Marco Antonio Farías,1,VEN-2752-nLo,PAGO-aRn-7473,2025-03-27,3474.01,Centro,1,PAGO-aRn-7473,100.0,True,PAGO-aRn-7473,PAGO,aRn
+Efectivo,Marcela Arce Cornejo,1,VEN-5510-AFl,PAGO-AGs-0404,2025-03-18,1483.43,Sur,1,PAGO-AGs-0404,100.0,True,PAGO-AGs-0404,PAGO,AGs
+Efectivo,Ing. Germán Macías,1,VEN-4219-EZs,PAGO-pUI-9069,2025-04-06,2919.99,Norte,1,PAGO-pUI-9069,100.0,True,PAGO-pUI-9069,PAGO,pUI
+Tarjeta,Dr. Cristobal Rincón,1,VEN-4847-tlF,PAGO-dYb-7777,2025-03-10,3364.78,Sur,1,,0.0,False,PAGO-dYb-7777,,
+Tarjeta,Noelia Débora Riojas,1,VEN-2805-FMk,PAGO-ncy-2345,2025-04-03,1757.56,Sur,1,PAGO-ncy-2345,100.0,True,PAGO-ncy-2345,PAGO,ncy
+Transferencia,Óliver Fernando Vélez,1,VEN-2761-jgl,PAGO-Usw-6116,2025-03-18,3547.92,Sur,1,,0.0,False,PAGO-Usw-6116,,
+Transferencia,Dr. Agustín Varela,1,VEN-1938-Nrl,PAGO-jqT-9727,2025-03-16,4052.55,Norte,1,PAGO-jqT-9727,100.0,True,PAGO-jqT-9727,PAGO,jqT
+Transferencia,Cynthia Verdugo Arenas,1,VEN-5855-moj,PAGO-msf-1895,2025-03-29,4059.42,Centro,1,PAGO-msf-1895,100.0,True,PAGO-msf-1895,PAGO,msf
+Tarjeta,Angélica Gustavo Ramón Coronado,1,VEN-9705-byt,PAGO-YMz-9900,2025-04-07,3395.81,Sur,1,PAGO-YMz-9900,100.0,True,PAGO-YMz-9900,PAGO,YMz
+Transferencia,Cornelio Luis Manuel Cantú,1,VEN-1671-Drh,PAGO-aQB-1761,2025-03-15,4420.54,Norte,1,PAGO-aQB-1761,100.0,True,PAGO-aQB-1761,PAGO,aQB
+Tarjeta,Irma Gabino Gaona,1,VEN-3895-otg,PAGO-WRH-7066,2025-03-26,4850.96,Sur,1,PAGO-WRH-7066,100.0,True,PAGO-WRH-7066,PAGO,WRH
+Tarjeta,Juan Carlos Jiménez,1,VEN-2459-Kwq,PAGO-nhU-8249,2025-03-24,334.86,Sur,1,PAGO-nhU-8249,100.0,True,PAGO-nhU-8249,PAGO,nhU
+Tarjeta,Cristobal Hilda Mascareñas,1,VEN-5528-ljK,PAGO-pIt-3032,2025-03-30,4715.17,Centro,1,PAGO-pIt-3032,100.0,True,PAGO-pIt-3032,PAGO,pIt
+Efectivo,Lic. Diego Sarabia,1,VEN-5144-bKx,PAGO-gQz-7832,2025-03-13,3413.5,Sur,1,PAGO-gQz-7832,100.0,True,PAGO-gQz-7832,PAGO,gQz
+Transferencia,Mariano Elvia Alcala Lugo,1,VEN-0918-LZd,PAGO-LSr-1953,2025-04-06,3347.67,Norte,1,,0.0,False,PAGO-LSr-1953,,
+Efectivo,Ing. René Llamas,1,VEN-1531-VXc,PAGO-oQF-1173,2025-03-21,2687.06,Sur,1,PAGO-oQF-1173,100.0,True,PAGO-oQF-1173,PAGO,oQF
+Efectivo,Maximiliano Abrego Moya,1,VEN-5312-fhO,PAGO-ENw-2260,2025-03-11,1941.28,Norte,1,PAGO-ENw-2260,100.0,True,PAGO-ENw-2260,PAGO,ENw
+Tarjeta,Claudio Calvillo Quiñones,1,VEN-8251-pUO,PAGO-zfB-1723,2025-04-02,4413.54,Sur,1,,0.0,False,PAGO-zfB-1723,,
+Efectivo,Gloria Villanueva,1,VEN-6607-Ilo,PAGO-wzg-9275,2025-04-02,4294.54,Norte,1,PAGO-wzg-9275,100.0,True,PAGO-wzg-9275,PAGO,wzg
+Transferencia,Eduardo Adriana de Anda,1,VEN-1358-TlI,PAGO-ulx-6492,2025-03-16,450.09,Norte,1,PAGO-ulx-6492,100.0,True,PAGO-ulx-6492,PAGO,ulx
+Tarjeta,Mtro. Débora Galindo,1,VEN-3568-MsO,PAGO-UUT-5802,2025-04-05,4347.41,Sur,1,,0.0,False,PAGO-UUT-5802,,
+Tarjeta,Julia Benítez,1,VEN-3859-ibM,PAGO-RIp-0764,2025-04-07,4692.89,Sur,1,PAGO-RIp-0764,100.0,True,PAGO-RIp-0764,PAGO,RIp
+Efectivo,Lic. Yeni García,1,VEN-2333-JTM,PAGO-NwK-4048,2025-03-19,1364.14,Centro,1,PAGO-NwK-4048,100.0,True,PAGO-NwK-4048,PAGO,NwK
+Efectivo,Gustavo Osorio,1,VEN-7090-tJG,PAGO-Plm-2295,2025-03-12,2883.38,Sur,1,PAGO-Plm-2295,100.0,True,PAGO-Plm-2295,PAGO,Plm
+Tarjeta,Leonor Oswaldo Grijalva Sarabia,1,VEN-5363-zOy,PAGO-JLd-0855,2025-04-07,1232.76,Sur,1,PAGO-JLd-0855,100.0,True,PAGO-JLd-0855,PAGO,JLd
+Efectivo,Mauro Óliver Alvarez Centeno,1,VEN-4872-Acl,PAGO-aZd-6617,2025-03-27,4576.55,Sur,1,PAGO-aZd-6617,100.0,True,PAGO-aZd-6617,PAGO,aZd
+Tarjeta,Abel Alonso,1,VEN-4400-cfn,PAGO-ZpM-4492,2025-03-31,1615.97,Norte,1,PAGO-ZpM-4492,100.0,True,PAGO-ZpM-4492,PAGO,ZpM
+Tarjeta,Omar Luna Tijerina,1,VEN-5345-FOS,PAGO-Twr-3520,2025-03-12,2469.26,Norte,1,PAGO-Twr-3520,100.0,True,PAGO-Twr-3520,PAGO,Twr
+Transferencia,Ing. Amelia Portillo,1,VEN-1354-mYZ,PAGO-SiD-0579,2025-03-13,4752.65,Centro,1,PAGO-SiD-0579,100.0,True,PAGO-SiD-0579,PAGO,SiD
+Tarjeta,Jorge Luis Rebeca Márquez Elizondo,1,VEN-9515-iLt,PAGO-nul-6767,2025-03-26,3156.65,Norte,1,PAGO-nul-6767,100.0,True,PAGO-nul-6767,PAGO,nul
+Tarjeta,Patricia Ariadna Hernádez Flórez,1,VEN-7216-PzT,PAGO-Obr-8538,2025-03-24,4103.09,Norte,1,PAGO-Obr-8538,100.0,True,PAGO-Obr-8538,PAGO,Obr
+Efectivo,María Solorio Manzanares,1,VEN-5167-cne,PAGO-gKW-5527,2025-03-17,1396.16,Norte,1,PAGO-gKW-5527,100.0,True,PAGO-gKW-5527,PAGO,gKW
+Efectivo,José Emilio Sosa,1,VEN-7107-tCf,PAGO-LYy-5149,2025-03-16,866.48,Norte,1,PAGO-LYy-5149,100.0,True,PAGO-LYy-5149,PAGO,LYy
+Efectivo,José Carlos Escobar Feliciano,1,VEN-6247-QOc,PAGO-tfK-8932,2025-04-05,3427.49,Norte,1,PAGO-tfK-8932,100.0,True,PAGO-tfK-8932,PAGO,tfK
+Efectivo,Susana José Manuél Padrón,1,VEN-7028-MgD,PAGO-hrz-7561,2025-03-15,3531.3,Sur,1,PAGO-hrz-7561,100.0,True,PAGO-hrz-7561,PAGO,hrz
+Transferencia,Óscar Bravo Macías,1,VEN-6045-piM,PAGO-zWh-8601,2025-03-31,3171.76,Centro,1,PAGO-zWh-8601,100.0,True,PAGO-zWh-8601,PAGO,zWh
+Tarjeta,Gustavo Armas Benítez,1,VEN-1709-ivF,PAGO-Nbv-6203,2025-03-29,3449.76,Centro,1,PAGO-Nbv-6203,100.0,True,PAGO-Nbv-6203,PAGO,Nbv
+Transferencia,Óscar Vázquez,1,VEN-8652-RUu,PAGO-QCj-1805,2025-03-18,4734.65,Centro,1,PAGO-QCj-1805,100.0,True,PAGO-QCj-1805,PAGO,QCj
+Efectivo,Aldonza Hernández,1,VEN-2180-eoC,PAGO-ywM-0635,2025-03-23,2634.24,Norte,1,PAGO-ywM-0635,100.0,True,PAGO-ywM-0635,PAGO,ywM
+Transferencia,Adriana Tirado Carvajal,1,VEN-7580-UIj,PAGO-Iur-6716,2025-03-18,437.34,Norte,1,PAGO-Iur-6716,100.0,True,PAGO-Iur-6716,PAGO,Iur
