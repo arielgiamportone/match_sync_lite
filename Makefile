@@ -1,89 +1,58 @@
-.PHONY: clean clean-build clean-pyc clean-test coverage dist docs help install lint lint/flake8
+.PHONY: clean clean-data lint test docs help install
 
 .DEFAULT_GOAL := help
 
-define BROWSER_PYSCRIPT
-import os, webbrowser, sys
+#################################################################################
+# VARIABLES                                                                       #
+#################################################################################
 
-from urllib.request import pathname2url
+PROJECT_DIR := $(CURDIR)
+PYTHON_INTERPRETER = python
 
-webbrowser.open("file://" + pathname2url(os.path.abspath(sys.argv[1])))
-endef
-export BROWSER_PYSCRIPT
+#################################################################################
+# COMMANDS                                                                        #
+#################################################################################
 
-define PRINT_HELP_PYSCRIPT
-import re, sys
+install: ## Install development dependencies
+	$(PYTHON_INTERPRETER) -m pip install -r requirements_dev.txt
 
-for line in sys.stdin:
-	match = re.match(r'^([a-zA-Z_-]+):.*?## (.*)$$', line)
-	if match:
-		target, help = match.groups()
-		print("%-20s %s" % (target, help))
-endef
-export PRINT_HELP_PYSCRIPT
+clean: ## Remove Python file artifacts and cached files
+	find . -type f -name "*.py[co]" -delete
+	find . -type d -name "__pycache__" -delete
+	find . -type d -name "*.egg-info" -delete
+	rm -rf .pytest_cache
+	rm -rf .coverage
+	rm -rf htmlcov
+	rm -rf build/
+	rm -rf dist/
 
-BROWSER := python -c "$$BROWSER_PYSCRIPT"
+clean-data: ## Remove generated data files
+	rm -rf data/processed/*
+	rm -rf reports/*
 
-help:
-	@python -c "$$PRINT_HELP_PYSCRIPT" < $(MAKEFILE_LIST)
+lint: ## Check style with ruff
+	ruff check .
+	ruff format .
 
-clean: clean-build clean-pyc clean-test ## remove all build, test, coverage and Python artifacts
+test: ## Run tests with pytest
+	pytest tests/ -v --cov=src
 
-clean-build: ## remove build artifacts
-	rm -fr build/
-	rm -fr dist/
-	rm -fr .eggs/
-	find . -name '*.egg-info' -exec rm -fr {} +
-	find . -name '*.egg' -exec rm -f {} +
-
-clean-pyc: ## remove Python file artifacts
-	find . -name '*.pyc' -exec rm -f {} +
-	find . -name '*.pyo' -exec rm -f {} +
-	find . -name '*~' -exec rm -f {} +
-	find . -name '__pycache__' -exec rm -fr {} +
-
-clean-test: ## remove test and coverage artifacts
-	rm -fr .tox/
-	rm -f .coverage
-	rm -fr htmlcov/
-	rm -fr .pytest_cache
-
-lint/flake8: ## check style with flake8
-	flake8 match_sync_lite tests
-
-
-lint: lint/flake8 ## check style
-
-test: ## run tests quickly with the default Python
-	python setup.py test
-
-test-all: ## run tests on every Python version with tox
-	tox
-
-coverage: ## check code coverage quickly with the default Python
-	coverage run --source match_sync_lite setup.py test
-	coverage report -m
-	coverage html
-	$(BROWSER) htmlcov/index.html
-
-docs: ## generate Sphinx HTML documentation, including API docs
+docs: ## Generate Sphinx HTML documentation
 	rm -f docs/match_sync_lite.rst
 	rm -f docs/modules.rst
-	sphinx-apidoc -o docs/ match_sync_lite
+	sphinx-apidoc -o docs/ src/match_sync_lite
 	$(MAKE) -C docs clean
 	$(MAKE) -C docs html
-	$(BROWSER) docs/_build/html/index.html
 
-servedocs: docs ## compile the docs watching for changes
-	watchmedo shell-command -p '*.rst' -c '$(MAKE) -C docs html' -R -D .
+generate-data: ## Generate sample data for testing
+	$(PYTHON_INTERPRETER) scripts/generate_data.py
 
-release: dist ## package and upload a release
-	twine upload dist/*
+run: ## Run the reconciliation pipeline
+	$(PYTHON_INTERPRETER) main.py
 
-dist: clean ## builds source and wheel package
-	python setup.py sdist
-	python setup.py bdist_wheel
-	ls -l dist
-
-install: clean ## install the package to the active Python's site-packages
-	python setup.py install
+help: ## Show this help message
+	@echo 'Usage:'
+	@echo '  make [target]'
+	@echo ''
+	@echo 'Targets:'
+	@awk '/^[a-zA-Z_-]+:.*?## .*$$/ {printf "  %-20s %s\n", $$1, $$2}' $(MAKEFILE_LIST)
